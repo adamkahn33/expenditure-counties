@@ -1,0 +1,2253 @@
+county,department,expenditures_ytd,fiscal_year,bin
+Prince George's,CENTRAL SERVICES,20919764.5,2016,Governing
+Prince George's,CENTRAL SERVICES,40274898.19,2017,Governing
+Prince George's,CENTRAL SERVICES,40695079.64,2014,Governing
+Prince George's,CENTRAL SERVICES,41901624.04,2015,Governing
+Prince George's,CENTRAL SERVICES,44508550.5,2018,Governing
+Prince George's,CENTRAL SERVICES,48336394.87,2019,Governing
+Prince George's,CENTRAL SERVICES,50204512.44,2013,Governing
+Prince George's,CENTRAL SERVICES,54693698.02,2020,Governing
+Prince George's,CIRCUIT COURT,1380277.2,2016,Governing
+Prince George's,CIRCUIT COURT,1436496.57,2015,Governing
+Prince George's,CIRCUIT COURT,1750472.17,2017,Governing
+Prince George's,CIRCUIT COURT,1792390.2,2018,Governing
+Prince George's,CIRCUIT COURT,2231827.08,2014,Governing
+Prince George's,CIRCUIT COURT,2332968.76,2013,Governing
+Prince George's,CIRCUIT COURT,5304873.55,2020,Governing
+Prince George's,CIRCUIT COURT,7495651.12,2019,Governing
+Prince George's,CITEZEN COMPLIANT OVERSIGHT PANEL,184.91,2020,Governing
+Prince George's,CITEZEN COMPLIANT OVERSIGHT PANEL,1768.03,2017,Governing
+Prince George's,CITEZEN COMPLIANT OVERSIGHT PANEL,2148.58,2018,Governing
+Prince George's,CITEZEN COMPLIANT OVERSIGHT PANEL,3178.19,2019,Governing
+Prince George's,CITIZEN COMPLAINT OVERSIGHT PANEL,126.88,2015,Governing
+Prince George's,CITIZEN COMPLAINT OVERSIGHT PANEL,595.47,2016,Governing
+Prince George's,CITIZEN COMPLAINT OVERSIGHT PANEL,56541.15,2014,Governing
+Prince George's,CITIZEN COMPLAINT OVERSIGHT PANEL,68565.38,2013,Governing
+Prince George's,COMMUNITY RELATIONS,52425.08,2016,Social Services
+Prince George's,COMMUNITY RELATIONS,76140.42,2015,Social Services
+Prince George's,COMMUNITY RELATIONS,99585.55,2018,Social Services
+Prince George's,COMMUNITY RELATIONS,110448.7,2019,Social Services
+Prince George's,COMMUNITY RELATIONS,111606.5,2017,Social Services
+Prince George's,COMMUNITY RELATIONS,115019.09,2014,Social Services
+Prince George's,COMMUNITY RELATIONS,244237.46,2013,Social Services
+Prince George's,COMMUNITY RELATIONS,621385.47,2020,Social Services
+Prince George's,CORRECTIONS,10588944.55,2018,Governing
+Prince George's,CORRECTIONS,10606269.86,2016,Governing
+Prince George's,CORRECTIONS,11890504.96,2019,Governing
+Prince George's,CORRECTIONS,12080877.59,2015,Governing
+Prince George's,CORRECTIONS,14168148.75,2013,Governing
+Prince George's,CORRECTIONS,16098797.34,2020,Governing
+Prince George's,CORRECTIONS,16346518.59,2014,Governing
+Prince George's,CORRECTIONS,18230615.53,2017,Governing
+Prince George's,COUNTY COUNCIL,990497.19,2016,Governing
+Prince George's,COUNTY COUNCIL,1024342.72,2015,Governing
+Prince George's,COUNTY COUNCIL,1524339.14,2013,Governing
+Prince George's,COUNTY COUNCIL,1573443.53,2014,Governing
+Prince George's,COUNTY COUNCIL,1730691.29,2017,Governing
+Prince George's,COUNTY COUNCIL,2093509.81,2018,Governing
+Prince George's,COUNTY COUNCIL,2776310.65,2020,Governing
+Prince George's,COUNTY COUNCIL,3347830.08,2019,Governing
+Prince George's,COUNTY EXECUTIVE,106008.9,2017,Governing
+Prince George's,COUNTY EXECUTIVE,122263.44,2015,Governing
+Prince George's,COUNTY EXECUTIVE,131404.24,2018,Governing
+Prince George's,COUNTY EXECUTIVE,149038.06,2016,Governing
+Prince George's,COUNTY EXECUTIVE,161269.73,2020,Governing
+Prince George's,COUNTY EXECUTIVE,167491.58,2019,Governing
+Prince George's,COUNTY EXECUTIVE,178212.69,2014,Governing
+Prince George's,COUNTY EXECUTIVE,191473.52,2013,Governing
+Prince George's,EDUCATION,8762743.13,2014,Education
+Prince George's,EDUCATION,9334972.61,2013,Education
+Prince George's,EDUCATION,668535090.24,2015,Education
+Prince George's,EDUCATION,800425363.5,2016,Education
+Prince George's,EDUCATION,879483110.08,2017,Education
+Prince George's,EDUCATION,900786775.57,2019,Education
+Prince George's,EDUCATION,923984248.31,2018,Education
+Prince George's,EDUCATION,1248840258.16,2020,Education
+Prince George's,ELECTIONS,225810.19,2019,Education
+Prince George's,ELECTIONS,268257.82,2018,Education
+Prince George's,ELECTIONS,302397.32,2015,Education
+Prince George's,ELECTIONS,302500.52,2014,Education
+Prince George's,ELECTIONS,362097.31,2020,Education
+Prince George's,ELECTIONS,384550.65,2017,Education
+Prince George's,ELECTIONS,392688.11,2016,Education
+Prince George's,ELECTIONS,1040460.68,2013,Education
+Prince George's,ENVIRONMENT,76097172.31,2014,Community Development
+Prince George's,ENVIRONMENT,77170789.7,2013,Community Development
+Prince George's,ENVIRONMENT,79185408.61,2015,Community Development
+Prince George's,ENVIRONMENT,86454728.18,2016,Community Development
+Prince George's,ENVIRONMENT,106670286.73,2019,Community Development
+Prince George's,ENVIRONMENT,107098628.67,2017,Community Development
+Prince George's,ENVIRONMENT,147332773.65,2018,Community Development
+Prince George's,ENVIRONMENT,154694748.01,2020,Community Development
+Prince George's,ETHICS & ACCOUNTABILITY,8200.3,2016,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,11194.84,2017,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,11272.24,2018,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,15264.59,2015,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,19079.0,2014,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,35341.85,2019,Social Services
+Prince George's,ETHICS & ACCOUNTABILITY,58734.56,2020,Social Services
+Prince George's,FAMILY SERVICES,5746837.29,2015,Social Services
+Prince George's,FAMILY SERVICES,5770109.71,2017,Social Services
+Prince George's,FAMILY SERVICES,5896736.67,2016,Social Services
+Prince George's,FAMILY SERVICES,6475480.75,2019,Social Services
+Prince George's,FAMILY SERVICES,7054452.34,2018,Social Services
+Prince George's,FAMILY SERVICES,8999909.08,2013,Social Services
+Prince George's,FAMILY SERVICES,9011276.61,2020,Social Services
+Prince George's,FAMILY SERVICES,10296781.05,2014,Social Services
+Prince George's,FINANCE,232809.88,2017,Finance
+Prince George's,FINANCE,600312.59,2016,Finance
+Prince George's,FINANCE,630692.25,2019,Finance
+Prince George's,FINANCE,1409676.52,2020,Finance
+Prince George's,FINANCE,1717535.38,2018,Finance
+Prince George's,FINANCE,9202685.42,2013,Finance
+Prince George's,FINANCE,9581330.57,2014,Finance
+Prince George's,FINANCE,136028523.97,2015,Finance
+Prince George's,FIRE/EMS,14148656.68,2013,Public Safety
+Prince George's,FIRE/EMS,16062207.87,2014,Public Safety
+Prince George's,FIRE/EMS,18506668.28,2016,Public Safety
+Prince George's,FIRE/EMS,20382186.96,2019,Public Safety
+Prince George's,FIRE/EMS,20574216.09,2018,Public Safety
+Prince George's,FIRE/EMS,21489302.18,2015,Public Safety
+Prince George's,FIRE/EMS,21758110.08,2017,Public Safety
+Prince George's,FIRE/EMS,22973517.92,2020,Public Safety
+Prince George's,HEALTH,20562452.4,2018,Social Services
+Prince George's,HEALTH,20820056.38,2019,Social Services
+Prince George's,HEALTH,24365249.15,2017,Social Services
+Prince George's,HEALTH,24589207.52,2014,Social Services
+Prince George's,HEALTH,25594832.27,2013,Social Services
+Prince George's,HEALTH,27540109.21,2015,Social Services
+Prince George's,HEALTH,27667069.63,2016,Social Services
+Prince George's,HEALTH,31788085.38,2020,Social Services
+Prince George's,HOMELAND SECURITY,9418815.01,2017,Public Safety
+Prince George's,HOMELAND SECURITY,9535714.02,2016,Public Safety
+Prince George's,HOMELAND SECURITY,9681948.64,2015,Public Safety
+Prince George's,HOMELAND SECURITY,11615300.82,2014,Public Safety
+Prince George's,HOMELAND SECURITY,13024786.0,2013,Public Safety
+Prince George's,HOMELAND SECURITY,14014205.63,2018,Public Safety
+Prince George's,HOMELAND SECURITY,14241535.31,2019,Public Safety
+Prince George's,HOMELAND SECURITY,15114439.55,2020,Public Safety
+Prince George's,HOUSING,2821370.93,2016,Community Development
+Prince George's,HOUSING,2960928.92,2018,Community Development
+Prince George's,HOUSING,3573594.18,2019,Community Development
+Prince George's,HOUSING,4796668.29,2015,Community Development
+Prince George's,HOUSING,5093573.61,2014,Community Development
+Prince George's,HOUSING,5323499.42,2017,Community Development
+Prince George's,HOUSING,5682014.45,2013,Community Development
+Prince George's,HOUSING,5810220.33,2020,Community Development
+Prince George's,HUMAN RESOURCES,920295.01,2017,Social Services
+Prince George's,HUMAN RESOURCES,933107.4,2016,Social Services
+Prince George's,HUMAN RESOURCES,1269930.11,2018,Social Services
+Prince George's,HUMAN RESOURCES,1385405.63,2019,Social Services
+Prince George's,HUMAN RESOURCES,2421279.57,2020,Social Services
+Prince George's,HUMAN RESOURCES,17381714.16,2013,Social Services
+Prince George's,HUMAN RESOURCES,18064980.8,2014,Social Services
+Prince George's,HUMAN RESOURCES,25440968.69,2015,Social Services
+Prince George's,INFORMATION TECHNOLOGY,25212848.19,2013,Social Services
+Prince George's,INFORMATION TECHNOLOGY,25730409.83,2019,Social Services
+Prince George's,INFORMATION TECHNOLOGY,25806457.47,2017,Social Services
+Prince George's,INFORMATION TECHNOLOGY,27458111.85,2014,Social Services
+Prince George's,INFORMATION TECHNOLOGY,29634572.15,2016,Social Services
+Prince George's,INFORMATION TECHNOLOGY,31901573.39,2018,Social Services
+Prince George's,INFORMATION TECHNOLOGY,35063710.82,2015,Social Services
+Prince George's,INFORMATION TECHNOLOGY,36560785.37,2020,Social Services
+Prince George's,LAW,65886.48,2016,Governing
+Prince George's,LAW,87742.76,2019,Governing
+Prince George's,LAW,89839.46,2017,Governing
+Prince George's,LAW,90696.61,2020,Governing
+Prince George's,LAW,94426.77,2018,Governing
+Prince George's,LAW,144999.87,2015,Governing
+Prince George's,LAW,181128.83,2014,Governing
+Prince George's,LAW,224533.2,2013,Governing
+Prince George's,LICENSE COMMISIONERS,21933.13,2018,Governing
+Prince George's,LICENSE COMMISIONERS,31172.53,2020,Governing
+Prince George's,LICENSE COMMISIONERS,32496.94,2019,Governing
+Prince George's,LICENSE COMMISIONERS,40451.12,2017,Governing
+Prince George's,LICENSE COMMISSIONERS,19815.35,2016,Governing
+Prince George's,LICENSE COMMISSIONERS,31708.34,2014,Governing
+Prince George's,LICENSE COMMISSIONERS,40016.34,2013,Governing
+Prince George's,LICENSE COMMISSIONERS,52417.37,2015,Governing
+Prince George's,MANAGEMENT & BUDGET,7841.18,2015,Finance
+Prince George's,MANAGEMENT & BUDGET,11273.38,2018,Finance
+Prince George's,MANAGEMENT & BUDGET,12759.56,2016,Finance
+Prince George's,MANAGEMENT & BUDGET,15034.93,2020,Finance
+Prince George's,MANAGEMENT & BUDGET,16238.41,2017,Finance
+Prince George's,MANAGEMENT & BUDGET,18806.63,2014,Finance
+Prince George's,MANAGEMENT & BUDGET,21180.53,2013,Finance
+Prince George's,MANAGEMENT & BUDGET,28421.64,2019,Finance
+Prince George's,NON-DEPARTMENTAL,43897925.92,2015,Other
+Prince George's,NON-DEPARTMENTAL,43992521.38,2014,Other
+Prince George's,NON-DEPARTMENTAL,49196137.1,2018,Other
+Prince George's,NON-DEPARTMENTAL,50066705.75,2017,Other
+Prince George's,NON-DEPARTMENTAL,51997564.24,2013,Other
+Prince George's,NON-DEPARTMENTAL,55225390.49,2016,Other
+Prince George's,NON-DEPARTMENTAL,61331920.01,2019,Other
+Prince George's,NON-DEPARTMENTAL,70673467.06,2020,Other
+Prince George's,ORPHAN'S COURT,3472.66,2016,Governing
+Prince George's,ORPHAN'S COURT,3853.47,2015,Governing
+Prince George's,ORPHAN'S COURT,5254.26,2014,Governing
+Prince George's,ORPHAN'S COURT,6135.45,2013,Governing
+Prince George's,ORPHAN'S COURT,6317.92,2019,Governing
+Prince George's,ORPHAN'S COURT,6386.29,2020,Governing
+Prince George's,ORPHAN'S COURT,13354.33,2018,Governing
+Prince George's,ORPHAN'S COURT,39447.0,2017,Governing
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",88633.06,2014,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",1889174.56,2016,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",2000434.35,2015,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",2502337.92,2019,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",3118636.27,2017,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",6305488.78,2018,Community Development
+Prince George's,"PERMITTING, INSPECTIONS & ENFORCEMENT",6959142.18,2020,Community Development
+Prince George's,PERSONNEL BOARD,2534.55,2020,Governing
+Prince George's,PERSONNEL BOARD,3759.65,2018,Governing
+Prince George's,PERSONNEL BOARD,3802.32,2017,Governing
+Prince George's,PERSONNEL BOARD,5814.82,2019,Governing
+Prince George's,PERSONNEL BOARD,6498.97,2016,Governing
+Prince George's,PERSONNEL BOARD,32304.66,2015,Governing
+Prince George's,PERSONNEL BOARD,62864.85,2014,Governing
+Prince George's,PERSONNEL BOARD,86597.27,2013,Governing
+Prince George's,POLICE,11471404.63,2017,Public Safety
+Prince George's,POLICE,11901126.47,2014,Public Safety
+Prince George's,POLICE,14218226.32,2013,Public Safety
+Prince George's,POLICE,19288965.41,2018,Public Safety
+Prince George's,POLICE,20001735.38,2015,Public Safety
+Prince George's,POLICE,22717209.65,2016,Public Safety
+Prince George's,POLICE,30338721.2,2019,Public Safety
+Prince George's,POLICE,34038338.28,2020,Public Safety
+Prince George's,PUBLIC WORKS & TRANSPORTATION,71907016.48,2013,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,73324608.16,2014,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,75035353.92,2015,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,94179775.03,2017,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,96971529.45,2016,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,117730467.32,2019,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,135086757.49,2018,Community Development
+Prince George's,PUBLIC WORKS & TRANSPORTATION,136716119.77,2020,Community Development
+Prince George's,REDEVELOPMENT AUTHORITY,2586913.89,2015,Community Development
+Prince George's,REIMBURSABLE BILLINGS,13.76,2018,Finance
+Prince George's,REIMBURSABLE BILLINGS,17381.78,2017,Finance
+Prince George's,REIMBURSABLE BILLINGS,18492.0,2020,Finance
+Prince George's,REIMBURSABLE BILLINGS,712992.54,2015,Finance
+Prince George's,SHERIFF,1038126.91,2014,Public Safety
+Prince George's,SHERIFF,1105724.32,2019,Public Safety
+Prince George's,SHERIFF,1133334.99,2018,Public Safety
+Prince George's,SHERIFF,1187957.62,2015,Public Safety
+Prince George's,SHERIFF,1217784.94,2020,Public Safety
+Prince George's,SHERIFF,1277628.24,2016,Public Safety
+Prince George's,SHERIFF,1294146.38,2013,Public Safety
+Prince George's,SHERIFF,1465164.29,2017,Public Safety
+Prince George's,SOCIAL SERVICES,7985894.56,2019,Social Services
+Prince George's,SOCIAL SERVICES,8409513.65,2018,Social Services
+Prince George's,SOCIAL SERVICES,8538618.96,2014,Social Services
+Prince George's,SOCIAL SERVICES,8604201.5,2013,Social Services
+Prince George's,SOCIAL SERVICES,8630958.25,2017,Social Services
+Prince George's,SOCIAL SERVICES,9242120.11,2015,Social Services
+Prince George's,SOCIAL SERVICES,9311227.64,2016,Social Services
+Prince George's,SOCIAL SERVICES,9545892.86,2020,Social Services
+Prince George's,SOIL CONSERVATION,775.71,2014,Community Development
+Prince George's,SOIL CONSERVATION,1051.18,2015,Community Development
+Prince George's,SOIL CONSERVATION,1186.71,2013,Community Development
+Prince George's,SOIL CONSERVATION,1353.1,2019,Community Development
+Prince George's,SOIL CONSERVATION,3358.61,2017,Community Development
+Prince George's,SOIL CONSERVATION,3601.450000000001,2020,Community Development
+Prince George's,SOIL CONSERVATION,6069.73,2016,Community Development
+Prince George's,SOIL CONSERVATION,7239.61,2018,Community Development
+Prince George's,STATE'S ATTORNEY,320561.58,2015,Governing
+Prince George's,STATE'S ATTORNEY,333005.65,2016,Governing
+Prince George's,STATE'S ATTORNEY,351716.8,2017,Governing
+Prince George's,STATE'S ATTORNEY,410940.87,2014,Governing
+Prince George's,STATE'S ATTORNEY,495150.82,2013,Governing
+Prince George's,STATE'S ATTORNEY,632079.01,2018,Governing
+Prince George's,STATE'S ATTORNEY,745288.8,2019,Governing
+Prince George's,STATE'S ATTORNEY,1264148.53,2020,Governing
+Prince George's,VARIOUS AGENCIES,721589758.82,2013,Other
+Prince George's,VARIOUS AGENCIES,773211696.15,2014,Other
+Loudoun,Animal Services,"2,853,020",2014,Other
+Loudoun,Animal Services,"3,204,851",2015,Other
+Loudoun,Animal Services,"3,068,489",2016,Other
+Loudoun,Animal Services,"2,922,674",2017,Other
+Loudoun,Animal Services,"3,206,134",2018,Other
+Loudoun,Animal Services,"3,537,675",2019,Other
+Loudoun,Animal Services,"3,718,093",2020,Other
+Loudoun,Animal Services,"4,406,888",2021,Other
+Loudoun,Board of Supervisors,"2,044,623",2014,Governing
+Loudoun,Board of Supervisors,"2,066,000",2015,Governing
+Loudoun,Board of Supervisors,"2,181,484",2016,Governing
+Loudoun,Board of Supervisors,"2,348,063",2017,Governing
+Loudoun,Board of Supervisors,"2,376,663",2018,Governing
+Loudoun,Board of Supervisors,"2,583,353",2019,Governing
+Loudoun,Board of Supervisors,"2,896,440",2020,Governing
+Loudoun,Board of Supervisors,"3,063,220",2021,Governing
+Loudoun,Building & Development,"17,823,691",2014,Community Development
+Loudoun,Building & Development,"20,407,840",2015,Community Development
+Loudoun,Building & Development,"20,616,955",2016,Community Development
+Loudoun,Building and Development,"20,794,079",2017,Community Development
+Loudoun,Building and Development,"20,594,117",2018,Community Development
+Loudoun,Building and Development,"22,269,830",2019,Community Development
+Loudoun,Building and Development,"23,602,759",2020,Community Development
+Loudoun,Building and Development,"24,219,509",2021,Community Development
+Loudoun,Clerk of the Circuit Court,"3,758,038",2014,Governing
+Loudoun,Clerk of the Circuit Court,"3,890,183",2015,Governing
+Loudoun,Clerk of the Circuit Court,"3,977,967",2016,Governing
+Loudoun,Clerk of the Circuit Court,"4,318,077",2017,Governing
+Loudoun,Clerk of the Circuit Court,"4,491,462",2018,Governing
+Loudoun,Clerk of the Circuit Court,"4,589,272",2019,Governing
+Loudoun,Clerk of the Circuit Court,"4,885,203",2020,Governing
+Loudoun,Clerk of the Circuit Court,"5,026,295",2021,Governing
+Loudoun,Commissioner of the Revenue,"5,977,558",2014,Governing
+Loudoun,Commissioner of the Revenue,"6,738,648",2015,Governing
+Loudoun,Commissioner of the Revenue,"6,514,363",2016,Governing
+Loudoun,Commissioner of the Revenue,"6,694,456",2017,Governing
+Loudoun,Commissioner of the Revenue,"6,783,764",2018,Governing
+Loudoun,Commissioner of the Revenue,"7,989,701",2019,Governing
+Loudoun,Commissioner of the Revenue,"8,826,743",2020,Governing
+Loudoun,Commissioner of the Revenue,"9,078,145",2021,Governing
+Loudoun,Commonwealth’s Attorney,"3,055,395",2014,Governing
+Loudoun,Commonwealth’s Attorney,"3,338,930",2015,Governing
+Loudoun,Commonwealth’s Attorney,"3,384,627",2016,Governing
+Loudoun,Commonwealth’s Attorney,"3,563,001",2017,Governing
+Loudoun,Commonwealth’s Attorney,"3,746,736",2018,Governing
+Loudoun,Commonwealth’s Attorney,"4,060,405",2019,Governing
+Loudoun,Commonwealth’s Attorney,"4,307,381",2020,Governing
+Loudoun,Commonwealth’s Attorney,"4,433,563",2021,Governing
+Loudoun,Community Corrections,"1,707,809",2014,Publlic Safety
+Loudoun,Community Corrections,"1,895,232",2015,Publlic Safety
+Loudoun,Community Corrections,"1,925,334",2016,Publlic Safety
+Loudoun,Community Corrections,"2,071,585",2017,Publlic Safety
+Loudoun,Community Corrections,"2,342,859",2018,Publlic Safety
+Loudoun,Community Corrections,"2,625,591",2019,Publlic Safety
+Loudoun,Community Corrections,"2,871,815",2020,Publlic Safety
+Loudoun,Community Corrections,"2,952,931",2021,Publlic Safety
+Loudoun,County Administrator,"3,137,545",2014,Governing
+Loudoun,County Administrator,"3,489,119",2015,Governing
+Loudoun,County Administrator,"3,720,531",2016,Governing
+Loudoun,County Administrator,"4,923,939",2017,Governing
+Loudoun,County Administrator,"5,351,417",2018,Governing
+Loudoun,County Administrator,"5,953,279",2019,Governing
+Loudoun,County Administrator,"6,720,506",2020,Governing
+Loudoun,County Administrator,"6,854,055",2021,Governing
+Loudoun,County Attorney,"2,532,191",2014,Governing
+Loudoun,County Attorney,"2,770,731",2015,Governing
+Loudoun,County Attorney,"2,856,474",2016,Governing
+Loudoun,County Attorney,"3,084,875",2017,Governing
+Loudoun,County Attorney,"3,456,178",2018,Governing
+Loudoun,County Attorney,"3,416,335",2019,Governing
+Loudoun,County Attorney,"3,518,029",2020,Governing
+Loudoun,County Attorney,"3,620,074",2021,Governing
+Loudoun,County Total,"$416,861,509",2014,Finances
+Loudoun,County Total,"$453,755,869",2015,Finances
+Loudoun,County Total,"$471,307,601",2016,Finances
+Loudoun,County Total,"$1,453,838,070",2017,Finances
+Loudoun,County Total,"$1,569,321,345",2018,Finances
+Loudoun,County Total,"$1,642,079,228",2019,Finances
+Loudoun,County Total,"$1,805,766,154",2020,Finances
+Loudoun,County Total,"$1,835,649,942",2021,Finances
+Loudoun,Courts,"1,019,402",2014,Governing
+Loudoun,Courts,"1,118,319",2015,Governing
+Loudoun,Courts,"1,451,759",2016,Governing
+Loudoun,Courts,"1,425,348",2017,Governing
+Loudoun,Courts,"1,450,007",2018,Governing
+Loudoun,Courts,"1,673,880",2019,Governing
+Loudoun,Courts,"1,706,920",2020,Governing
+Loudoun,Courts,"1,750,257",2021,Governing
+Loudoun,Economic Development,"2,578,179",2014,Community Development
+Loudoun,Economic Development,"3,009,279",2015,Community Development
+Loudoun,Economic Development,"3,226,761",2016,Community Development
+Loudoun,Economic Development,"3,257,953",2017,Community Development
+Loudoun,Economic Development,"3,512,414",2018,Community Development
+Loudoun,Economic Development,"3,837,175",2019,Community Development
+Loudoun,Economic Development,"4,092,485",2020,Community Development
+Loudoun,Economic Development,"4,195,929",2021,Community Development
+Loudoun,Elections and Voter Registration,"1,214,614",2014,Governing
+Loudoun,Elections and Voter Registration,"1,624,015",2015,Governing
+Loudoun,Elections and Voter Registration,"1,793,032",2016,Governing
+Loudoun,Elections and Voter Registration,"1,722,543",2017,Governing
+Loudoun,Elections and Voter Registration,"1,751,784",2018,Governing
+Loudoun,Elections and Voter Registration,"1,934,920",2019,Governing
+Loudoun,Elections and Voter Registration,"2,250,311",2020,Governing
+Loudoun,Elections and Voter Registration,"2,303,805",2021,Governing
+Loudoun,Extension Services,"361,209",2014,Education
+Loudoun,Extension Services,"409,975",2015,Education
+Loudoun,Extension Services,"403,507",2016,Education
+Loudoun,Extension Services,"397,343",2017,Education
+Loudoun,Extension Services,"419,769",2018,Education
+Loudoun,Extension Services,"465,751",2019,Education
+Loudoun,Extension Services,"553,940",2020,Education
+Loudoun,Extension Services,"568,269",2021,Education
+Loudoun,Family Services,"32,092,069",2017,Social Services
+Loudoun,Family Services,"33,972,738",2018,Social Services
+Loudoun,Family Services,"38,130,927",2019,Social Services
+Loudoun,Family Services,"43,077,178",2020,Social Services
+Loudoun,Family Services,"43,887,214",2021,Social Services
+Loudoun,Family Services2,"30,654,981",2014,Social Services
+Loudoun,Family Services2,"33,621,538",2015,Social Services
+Loudoun,Family Services2,"34,038,050",2016,Social Services
+Loudoun,Finance and Procurement,"4,690,492",2017,Finances
+Loudoun,Finance and Procurement,"4,999,198",2018,Finances
+Loudoun,Finance and Procurement,"5,761,098",2019,Finances
+Loudoun,Finance and Procurement,"5,903,736",2020,Finances
+Loudoun,Finance and Procurement,"6,066,702",2021,Finances
+Loudoun,Fire and Rescue,"71,869,522",2017,Publlic Safety
+Loudoun,Fire and Rescue,"79,210,722",2018,Publlic Safety
+Loudoun,Fire and Rescue,"89,133,020",2019,Publlic Safety
+Loudoun,Fire and Rescue,"95,815,139",2020,Publlic Safety
+Loudoun,Fire and Rescue,"98,341,229",2021,Publlic Safety
+Loudoun,"Fire, Rescue, & Emergency Services","62,443,832",2014,Publlic Safety
+Loudoun,"Fire, Rescue, & Emergency Services","67,622,786",2015,Publlic Safety
+Loudoun,"Fire, Rescue, & Emergency Services","71,400,440",2016,Publlic Safety
+Loudoun,General Services,"31,531,428",2014,Other
+Loudoun,General Services,"31,797,219",2015,Other
+Loudoun,General Services,"33,279,653",2016,Other
+Loudoun,General Services,"41,169,678",2017,Other
+Loudoun,General Services,"42,970,916",2018,Other
+Loudoun,General Services,"47,276,265",2019,Other
+Loudoun,General Services,"49,757,223",2020,Other
+Loudoun,General Services,"49,970,225",2021,Other
+Loudoun,Health,"4,763,662",2017,Social Services
+Loudoun,Health,"4,899,397",2018,Social Services
+Loudoun,Health,"5,487,295",2019,Social Services
+Loudoun,Health,"5,894,627",2020,Social Services
+Loudoun,Health,"6,017,953",2021,Social Services
+Loudoun,Health Services,"4,258,514",2014,Social Services
+Loudoun,Health Services,"4,521,978",2015,Social Services
+Loudoun,Health Services,"4,646,671",2016,Social Services
+Loudoun,Human Resources,"6,607,442",2017,Social Services
+Loudoun,Human Resources,"6,120,714",2018,Social Services
+Loudoun,Human Resources,"6,281,947",2019,Social Services
+Loudoun,Human Resources,"7,499,104",2020,Social Services
+Loudoun,Human Resources,"7,707,605",2021,Social Services
+Loudoun,Information,"2,450,488",2017,Social Services
+Loudoun,Information,"2,331,901",2018,Social Services
+Loudoun,Information,"2,631,952",2019,Social Services
+Loudoun,Information,"2,853,449",2020,Social Services
+Loudoun,Information,"2,935,775",2021,Social Services
+Loudoun,Information Technology,"21,620,902",2014,Social Services
+Loudoun,Information Technology,"22,990,068",2015,Social Services
+Loudoun,Information Technology,"26,145,278",2016,Social Services
+Loudoun,Information Technology,"28,502,223",2017,Social Services
+Loudoun,Information Technology,"33,041,603",2018,Social Services
+Loudoun,Information Technology,"34,272,913",2019,Social Services
+Loudoun,Information Technology,"37,315,111",2020,Social Services
+Loudoun,Information Technology,"37,770,265",2021,Social Services
+Loudoun,Infrastructure,"26,797,995",2017,Community Development
+Loudoun,Infrastructure,"26,807,165",2018,Community Development
+Loudoun,Infrastructure,"29,901,625",2019,Community Development
+Loudoun,Infrastructure,"29,056,666",2020,Community Development
+Loudoun,Infrastructure,"29,428,159",2021,Community Development
+Loudoun,Juvenile Court Service Unit,"2,081,787",2017,Governing
+Loudoun,Juvenile Court Service Unit,"2,019,993",2018,Governing
+Loudoun,Juvenile Court Service Unit,"2,283,968",2019,Governing
+Loudoun,Juvenile Court Service Unit,"2,400,539",2020,Governing
+Loudoun,Juvenile Court Service Unit,"2,465,285",2021,Governing
+Loudoun,Juvenile Court Services Unit,"1,867,584",2014,Governing
+Loudoun,Juvenile Court Services Unit,"1,998,359",2015,Governing
+Loudoun,Juvenile Court Services Unit,"2,051,327",2016,Governing
+Loudoun,Library Services,"13,708,083",2014,Education
+Loudoun,Library Services,"14,646,313",2015,Education
+Loudoun,Library Services,"14,628,697",2016,Education
+Loudoun,Library Services,"15,020,156",2017,Education
+Loudoun,Library Services,"15,831,917",2018,Education
+Loudoun,Library Services,"20,136,288",2019,Education
+Loudoun,Library Services,"21,020,535",2020,Education
+Loudoun,Library Services,"21,570,684",2021,Education
+Loudoun,"MH, SA, & Developmental Services","31,993,713",2014,Community Development
+Loudoun,"MH, SA, & Developmental Services","34,327,389",2015,Community Development
+Loudoun,"MH, SA, & Developmental Services","35,321,256",2016,Community Development
+Loudoun,"MH, SA, and Developmental Services","38,118,692",2017,Community Development
+Loudoun,"MH, SA, and Developmental Services","40,085,398",2018,Community Development
+Loudoun,"MH, SA, and Developmental Services","43,905,953",2019,Community Development
+Loudoun,"MH, SA, and Developmental Services","49,868,199",2020,Community Development
+Loudoun,"MH, SA, and Developmental Services","51,117,805",2021,Community Development
+Loudoun,Management & Financial Services,"11,920,521",2014,Finances
+Loudoun,Management & Financial Services,"13,127,319",2015,Finances
+Loudoun,Management & Financial Services,"13,481,174",2016,Finances
+Loudoun,Management and Budget,"2,306,592",2017,Finances
+Loudoun,Management and Budget,"2,507,796",2018,Finances
+Loudoun,Management and Budget,"2,910,419",2019,Finances
+Loudoun,Management and Budget,"2,953,228",2020,Finances
+Loudoun,Management and Budget,"3,034,855",2021,Finances
+Loudoun,Mapping & Geographic Information,"2,203,977",2014,Community Development
+Loudoun,Mapping & Geographic Information,"2,361,262",2015,Community Development
+Loudoun,Mapping & Geographic Information,"2,395,767",2016,Community Development
+Loudoun,Non-Departmental,"984,242,190",2017,Other
+Loudoun,Non-Departmental,"1,074,458,882",2018,Other
+Loudoun,Non-Departmental,"1,097,455,821",2019,Other
+Loudoun,Non-Departmental,"1,218,067,849",2020,Other
+Loudoun,Non-Departmental,"1,230,248,527",2021,Other
+Loudoun,Non-Departmental3,"$14,545,868",2014,Other
+Loudoun,Non-Departmental3,"9,091,565",2015,Other
+Loudoun,Non-Departmental3,"9,024,079",2016,Other
+Loudoun,"Parks, Recreation, and Community","34,6$72,374",2014,Community Development
+Loudoun,"Parks, Recreation, and Community","40,578,738",2015,Community Development
+Loudoun,"Parks, Recreation, and Community","39,333,982",2016,Community Development
+Loudoun,"Parks,Recreation, and Community Services","39,070,748",2017,Community Development
+Loudoun,"Parks,Recreation, and Community Services","40,927,788",2018,Community Development
+Loudoun,"Parks,Recreation, and Community Services","48,411,720",2019,Community Development
+Loudoun,"Parks,Recreation, and Community Services","52,967,866",2020,Community Development
+Loudoun,"Parks,Recreation, and Community Services","55,510,000",2021,Community Development
+Loudoun,Planning  and Zoning,"5,696,174",2014,Community Development
+Loudoun,Planning  and Zoning,"6,411,227",2015,Community Development
+Loudoun,Planning  and Zoning,"6,508,327",2016,Community Development
+Loudoun,Planning and Zoning,"7,209,158",2017,Community Development
+Loudoun,Planning and Zoning,"7,462,969",2018,Community Development
+Loudoun,Planning and Zoning,"7,629,769",2019,Community Development
+Loudoun,Planning and Zoning,"8,615,962",2020,Community Development
+Loudoun,Planning and Zoning,"8,863,001",2021,Community Development
+Loudoun,Reg. Orgs/Intergovt. Aid/Non-Profit,"5,151,911",2014,Finances
+Loudoun,Reg. Orgs/Intergovt. Aid/Non-Profit,"5,417,489",2015,Finances
+Loudoun,Reg. Orgs/Intergovt. Aid/Non-Profit,"5,759,730",2016,Finances
+Loudoun,Sheriff,"73,575,483",2014,Publlic Safety
+Loudoun,Sheriff,"80,698,173",2015,Publlic Safety
+Loudoun,Sheriff,"83,694,863",2016,Publlic Safety
+Loudoun,Sheriff’s Office,"84,212,725",2017,Publlic Safety
+Loudoun,Sheriff’s Office,"86,040,283",2018,Publlic Safety
+Loudoun,Sheriff’s Office,"89,359,992",2019,Publlic Safety
+Loudoun,Sheriff’s Office,"95,982,180",2020,Publlic Safety
+Loudoun,Sheriff’s Office,"101,307,535",2021,Publlic Safety
+Loudoun,Transportation & Capital,"18,776,681",2014,Community Development
+Loudoun,Transportation & Capital,"25,876,220",2015,Community Development
+Loudoun,Transportation & Capital,"29,720,401",2016,Community Development
+Loudoun,Treasurer,"4,176,209",2014,Finances
+Loudoun,Treasurer,"4,705,104",2015,Finances
+Loudoun,Treasurer,"4,756,623",2016,Finances
+Loudoun,Treasurer,"5,108,515",2017,Finances
+Loudoun,Treasurer,"6,148,661",2018,Finances
+Loudoun,Treasurer,"6,171,089",2019,Finances
+Loudoun,Treasurer,"6,766,938",2020,Finances
+Loudoun,Treasurer,"6,934,183",2021,Finances
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$11,569,374.71",2013,Social Services
+Fairfax,ALCOHOL AND DRUG SERVICES,$0.00,2013,Social Services
+Fairfax,BOARD OF SUPERVISORS,"$4,554,678.86",2013,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$739,969.50",2013,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$1,712,730.11",2013,Other
+Fairfax,CAPITAL FACILITIES,"$11,925,564.09",2013,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$10,318,565.85",2013,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$373,517.44",2013,Governing
+Fairfax,CODE COMPLIANCE,"$3,595,916.03",2013,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$2,653,086.17",2013,Governing
+Fairfax,COUNTY ATTORNEY,"$6,775,252.84",2013,Governing
+Fairfax,COUNTY EXECUTIVE,"$5,729,016.13",2013,Governing
+Fairfax,ELECTIONS,"$3,558,961.93",2013,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,661,943.53",2013,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$279,509,869.85",2013,Finances
+Fairfax,FACILITIES MANAGEMENT,"$52,827,898.46",2013,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$26,791,911.07",2013,Education
+Fairfax,FAMILY SERVICES,"$181,555,970.41",2013,Social Services
+Fairfax,FINANCE,"$9,204,369.38",2013,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$284,278.32",2013,Finances
+Fairfax,FIRE AND RESCUE,"$168,323,675.25",2013,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$2,049,657.13",2013,Governing
+Fairfax,HEALTH,"$51,097,647.79",2013,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$5,151,326.61",2013,Community Development
+Fairfax,HUMAN RESOURCES,"$7,560,035.10",2013,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,414,294.89",2013,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$28,380,070.09",2013,Social Services
+Fairfax,INTELLECTUAL DISABILITY SERVICES,$0.00,2013,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$20,717,287.88",2013,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$20,435,292.11",2013,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$2,651,423.60",2013,Finances
+Fairfax,MENTAL HEALTH SERVICES,$0.00,2013,Social Services
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$26,122,726.23",2013,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$11,001,060.88",2013,Social Services
+Fairfax,PARK AUTHORITY,"$22,656,250.89",2013,Community Development
+Fairfax,PLANNING AND ZONING,"$9,297,434.81",2013,Community Development
+Fairfax,PLANNING COMMISSION,"$674,420.26",2013,Community Development
+Fairfax,POLICE,"$170,984,615.70",2013,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,801,328.40",2013,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,164,637.03",2013,Governing
+Fairfax,PUBLIC SAFETY COMMUNICATIONS,$0.00,2013,Public Safety
+Fairfax,RETIREMENT ADMINISTRATION,$0.00,2013,Finances
+Fairfax,SHERIFF,"$59,864,778.01",2013,Public Safety
+Fairfax,SOLID WASTE,$0.00,2013,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2013,Community Development
+Fairfax,TAX ADMINISTRATION,"$21,423,473.39",2013,Finances
+Fairfax,TRANSPORTATION,"$7,394,483.00",2013,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$83,866.17",2013,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$2,896,544.66",2013,Other
+Fairfax,VEHICLE SERVICES,$0.00,2013,Community Development
+Fairfax,WASTEWATER,$0.00,2013,Community Development
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$11,772,165.75",2014,Social Services
+Fairfax,ALCOHOL AND DRUG SERVICES,$0.00,2014,Social Services
+Fairfax,BOARD OF SUPERVISORS,"$4,662,120.67",2014,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$755,410.52",2014,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$1,619,246.68",2014,Other
+Fairfax,CAPITAL FACILITIES,"$12,843,760.91",2014,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$10,526,463.31",2014,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$389,818.00",2014,Governing
+Fairfax,CODE COMPLIANCE,"$4,033,568.85",2014,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$2,750,206.05",2014,Governing
+Fairfax,COUNTY ATTORNEY,"$6,312,069.31",2014,Governing
+Fairfax,COUNTY EXECUTIVE,"$5,880,094.00",2014,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2014,Public Safety
+Fairfax,ELECTIONS,"$3,537,775.76",2014,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,627,581.45",2014,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$287,626,419.94",2014,Finances
+Fairfax,FACILITIES MANAGEMENT,"$51,903,173.45",2014,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$26,463,385.90",2014,Education
+Fairfax,FAMILY SERVICES,"$179,525,974.49",2014,Social Services
+Fairfax,FINANCE,"$7,640,312.45",2014,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$238,266.76",2014,Finances
+Fairfax,FIRE AND RESCUE,"$174,769,554.47",2014,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$2,087,469.58",2014,Governing
+Fairfax,HEALTH,"$51,779,264.66",2014,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$5,561,416.98",2014,Community Development
+Fairfax,HUMAN RESOURCES,"$6,883,386.85",2014,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,326,420.27",2014,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$30,710,117.05",2014,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$20,636,623.39",2014,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$21,524,476.19",2014,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$4,285,558.29",2014,Finances
+Fairfax,MENTAL HEALTH SERVICES,$0.00,2014,Social Services
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$25,973,253.78",2014,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$11,359,748.56",2014,Social Services
+Fairfax,PARK AUTHORITY,"$23,036,746.70",2014,Community Development
+Fairfax,PLANNING AND ZONING,"$10,000,096.15",2014,Community Development
+Fairfax,PLANNING COMMISSION,"$701,297.63",2014,Community Development
+Fairfax,POLICE,"$171,795,596.73",2014,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,442,881.59",2014,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,230,260.04",2014,Governing
+Fairfax,SHERIFF,"$61,496,786.70",2014,Public Safety
+Fairfax,SOLID WASTE,$0.00,2014,Community Development
+Fairfax,TAX ADMINISTRATION,"$22,816,026.27",2014,Finances
+Fairfax,TRANSPORTATION,"$7,514,317.63",2014,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$86,922.92",2014,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$4,404,903.64",2014,Other
+Fairfax,WASTEWATER,$0.00,2014,Community Development
+Fairfax,ACUTE & THERAPEUTIC TREATMENT,$0.00,2015,Social Services
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$12,368,238.65",2015,Social Services
+Fairfax,BOARD OF SUPERVISORS,"$4,701,987.75",2015,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$903,587.85",2015,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$1,591,634.98",2015,Other
+Fairfax,CAPITAL FACILITIES,"$13,150,050.86",2015,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$10,570,642.35",2015,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$370,213.17",2015,Governing
+Fairfax,CODE COMPLIANCE,"$3,943,145.24",2015,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$3,376,104.55",2015,Governing
+Fairfax,COMMUNITY LIVING TREATMENT&SUPPORTS,$0.00,2015,Social Services
+Fairfax,COUNTY ATTORNEY,"$6,538,963.65",2015,Governing
+Fairfax,COUNTY EXECUTIVE,"$5,868,895.10",2015,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2015,Public Safety
+Fairfax,ELECTIONS,"$3,493,963.52",2015,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,877,334.95",2015,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$308,144,201.73",2015,Finances
+Fairfax,FACILITIES MANAGEMENT,"$52,395,116.14",2015,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$26,849,178.72",2015,Education
+Fairfax,FAMILY SERVICES,"$183,351,820.58",2015,Social Services
+Fairfax,FINANCE,"$7,407,180.56",2015,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$230,863.73",2015,Finances
+Fairfax,FIRE AND RESCUE,"$182,769,245.59",2015,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$2,098,002.53",2015,Governing
+Fairfax,HEALTH,"$51,873,699.52",2015,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$5,610,671.98",2015,Community Development
+Fairfax,HUMAN RESOURCES,"$7,215,554.93",2015,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,382,452.51",2015,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$33,198,737.23",2015,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$21,957,739.67",2015,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$22,480,241.43",2015,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$4,424,744.36",2015,Finances
+Fairfax,MCLEAN COMMUNITY CENTER,$0.00,2015,Social Services
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$27,765,259.10",2015,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$10,914,595.16",2015,Social Services
+Fairfax,PARK AUTHORITY,"$23,085,650.77",2015,Community Development
+Fairfax,PLANNING AND ZONING,"$9,896,563.05",2015,Community Development
+Fairfax,PLANNING COMMISSION,"$633,699.90",2015,Community Development
+Fairfax,POLICE,"$178,721,676.41",2015,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,354,734.86",2015,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,146,688.00",2015,Governing
+Fairfax,RESTON COMMUNITY CENTER,$0.00,2015,Social Services
+Fairfax,RETIREMENT ADMINISTRATION,$0.00,2015,Finances
+Fairfax,SHERIFF,"$61,751,472.46",2015,Public Safety
+Fairfax,SOLID WASTE,$0.00,2015,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2015,Community Development
+Fairfax,TAX ADMINISTRATION,"$23,087,504.93",2015,Finances
+Fairfax,TRANSPORTATION,"$7,538,749.98",2015,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$2,000.00",2015,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$3,233,528.23",2015,Other
+Fairfax,VEHICLE SERVICES,$0.00,2015,Community Development
+Fairfax,WASTEWATER,$0.00,2015,Community Development
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$12,801,558.22",2016,Social Services
+Fairfax,BOARD OF SUPERVISORS,"$5,064,665.06",2016,Social Services
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$985,550.71",2016,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$1,693,864.91",2016,Other
+Fairfax,CAPITAL FACILITIES,"$13,542,940.60",2016,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$10,715,719.19",2016,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$395,006.41",2016,Governing
+Fairfax,CODE COMPLIANCE,"$4,150,382.35",2016,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$3,632,170.09",2016,Governing
+Fairfax,COUNTY ATTORNEY,"$6,437,735.51",2016,Governing
+Fairfax,COUNTY EXECUTIVE,"$6,144,930.10",2016,Governing
+Fairfax,ELECTIONS,"$4,377,734.19",2016,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,734,964.88",2016,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$332,034,536.18",2016,Finances
+Fairfax,FACILITIES MANAGEMENT,"$55,210,286.54",2016,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$28,698,456.27",2016,Education
+Fairfax,FAMILY SERVICES,"$194,711,993.78",2016,Social Services
+Fairfax,FINANCE,"$7,954,468.74",2016,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$303,927.80",2016,Finances
+Fairfax,FIRE AND RESCUE,"$188,123,918.81",2016,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$2,339,517.42",2016,Governing
+Fairfax,HEALTH,"$53,643,468.77",2016,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$5,949,424.32",2016,Community Development
+Fairfax,HUMAN RESOURCES,"$6,892,094.94",2016,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,347,232.47",2016,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$31,701,834.33",2016,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$22,285,861.25",2016,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$24,410,235.31",2016,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$4,437,211.91",2016,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$27,943,468.91",2016,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$11,980,918.79",2016,Social Services
+Fairfax,PARK AUTHORITY,"$23,444,163.05",2016,Community Development
+Fairfax,PLANNING AND ZONING,"$10,519,552.36",2016,Community Development
+Fairfax,PLANNING COMMISSION,"$722,936.77",2016,Community Development
+Fairfax,POLICE,"$182,499,531.84",2016,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,805,795.39",2016,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,210,221.32",2016,Governing
+Fairfax,PUBLIC SAFETY COMMUNICATIONS,$0.00,2016,Public Safety
+Fairfax,RESTON COMMUNITY CENTER,$0.00,2016,Social Services
+Fairfax,RETIREMENT ADMINISTRATION,$0.00,2016,Finances
+Fairfax,SHERIFF,"$63,380,975.29",2016,Public Safety
+Fairfax,SOLID WASTE,$0.00,2016,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2016,Community Development
+Fairfax,TAX ADMINISTRATION,"$23,665,683.25",2016,Finances
+Fairfax,TRANSPORTATION,"$7,842,482.89",2016,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,$0.00,2016,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$4,508,077.58",2016,Other
+Fairfax,WASTEWATER,$0.00,2016,Community Development
+Fairfax,ACUTE & THERAPEUTIC TREATMENT,$0.00,2017,Social Services
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$12,968,369.00",2017,Social Services
+Fairfax,ANIMAL SHELTERING,"$1,059,203.55",2017,Other
+Fairfax,BOARD OF SUPERVISORS,"$5,119,619.86",2017,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$1,229,660.65",2017,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$784,223.81",2017,Other
+Fairfax,CAPITAL FACILITIES,"$13,564,148.60",2017,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$11,188,953.40",2017,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$403,690.30",2017,Governing
+Fairfax,CODE COMPLIANCE,"$4,280,255.12",2017,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$3,645,935.03",2017,Governing
+Fairfax,COMMUNITY LIVING TREATMENT&SUPPORTS,$0.00,2017,Social Services
+Fairfax,COUNTY ATTORNEY,"$7,336,650.31",2017,Governing
+Fairfax,COUNTY EXECUTIVE,"$6,144,887.40",2017,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2017,Public Safety
+Fairfax,ELECTIONS,"$5,110,510.50",2017,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,621,214.39",2017,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$348,819,501.35",2017,Finances
+Fairfax,FACILITIES MANAGEMENT,"$56,925,999.90",2017,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$27,393,884.06",2017,Education
+Fairfax,FAMILY SERVICES,"$195,769,507.97",2017,Social Services
+Fairfax,FINANCE,"$8,133,916.68",2017,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$304,006.33",2017,Finances
+Fairfax,FIRE AND RESCUE,"$197,652,323.36",2017,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$3,437,878.45",2017,Governing
+Fairfax,HEALTH,"$56,929,543.25",2017,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$6,075,172.17",2017,Community Development
+Fairfax,HUMAN RESOURCES,"$7,447,241.92",2017,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,571,749.98",2017,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$33,033,565.72",2017,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$22,497,461.07",2017,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$26,861,443.65",2017,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$4,405,082.66",2017,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$29,108,032.65",2017,Social Services
+Fairfax,OFFICE OF INDEPENDENT POLICE AUDITOR,"$31,565.59",2017,Public Safety
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$12,716,695.86",2017,Social Services
+Fairfax,PARK AUTHORITY,"$24,227,436.71",2017,Community Development
+Fairfax,PLANNING AND ZONING,"$10,939,824.54",2017,Community Development
+Fairfax,PLANNING COMMISSION,"$792,008.06",2017,Community Development
+Fairfax,POLICE,"$188,739,413.82",2017,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,605,771.92",2017,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,355,374.53",2017,Governing
+Fairfax,PUBLIC SAFETY COMMUNICATIONS,$0.00,2017,Public Safety
+Fairfax,SHERIFF,"$64,101,352.95",2017,Public Safety
+Fairfax,SOLID WASTE,$0.00,2017,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2017,Community Development
+Fairfax,TAX ADMINISTRATION,"$24,372,481.38",2017,Finances
+Fairfax,TRANSPORTATION,"$8,178,648.61",2017,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$21,330.03",2017,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$3,183,976.62",2017,Other
+Fairfax,VEHICLE SERVICES,$0.00,2017,Community Development
+Fairfax,WASTEWATER,$0.00,2017,Community Development
+Fairfax,ACUTE & THERAPEUTIC TREATMENT,$0.00,2018,Social Services
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,"$13,421,349.31",2018,Social Services
+Fairfax,ANIMAL SHELTERING,"$2,161,125.65",2018,Other
+Fairfax,BOARD OF SUPERVISORS,"$5,088,578.08",2018,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$1,009,630.88",2018,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$809,284.00",2018,Other
+Fairfax,CAPITAL FACILITIES,"$13,972,068.87",2018,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$11,396,333.68",2018,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$452,271.99",2018,Governing
+Fairfax,CODE COMPLIANCE,"$4,322,854.86",2018,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$3,711,042.60",2018,Governing
+Fairfax,COUNTY ATTORNEY,"$7,358,235.78",2018,Governing
+Fairfax,COUNTY EXECUTIVE,"$6,439,657.24",2018,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2018,Public Safety
+Fairfax,ELECTIONS,"$4,528,347.60",2018,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,810,661.38",2018,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$364,459,918.71",2018,Finances
+Fairfax,FACILITIES MANAGEMENT,"$57,171,867.41",2018,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$28,753,170.94",2018,Education
+Fairfax,FAMILY SERVICES,"$194,899,376.37",2018,Social Services
+Fairfax,FINANCE,"$7,769,691.68",2018,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$319,484.98",2018,Finances
+Fairfax,FIRE AND RESCUE,"$199,105,994.48",2018,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$3,814,798.00",2018,Governing
+Fairfax,HEALTH,"$57,515,134.39",2018,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$6,416,330.49",2018,Community Development
+Fairfax,HUMAN RESOURCES,"$7,359,894.23",2018,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,498,459.40",2018,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$32,826,498.93",2018,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$22,120,513.74",2018,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$27,320,812.75",2018,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$4,938,070.23",2018,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$29,553,496.00",2018,Social Services
+Fairfax,OFFICE OF INDEPENDENT POLICE AUDITOR,"$227,579.93",2018,Public Safety
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$13,020,271.61",2018,Social Services
+Fairfax,PARK AUTHORITY,"$24,976,580.76",2018,Community Development
+Fairfax,PLANNING AND ZONING,"$11,911,771.22",2018,Community Development
+Fairfax,PLANNING COMMISSION,"$824,927.11",2018,Community Development
+Fairfax,POLICE,"$192,853,382.18",2018,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,169,110.66",2018,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,471,603.94",2018,Governing
+Fairfax,RESTON COMMUNITY CENTER,$0.00,2018,Community Development
+Fairfax,SHERIFF,"$65,419,417.65",2018,Public Safety
+Fairfax,SOLID WASTE,$0.00,2018,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2018,Community Development
+Fairfax,TAX ADMINISTRATION,"$24,317,624.31",2018,Finances
+Fairfax,TRANSPORTATION,"$8,160,306.47",2018,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$20,044.97",2018,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$4,154,658.77",2018,Other
+Fairfax,VEHICLE SERVICES,$0.00,2018,Community Development
+Fairfax,ACUTE & THERAPEUTIC TREATMENT,$0.00,2019,Social Services
+Fairfax,ADMINISTRATION FOR HUMAN SERVICES,$0.00,2019,Social Services
+Fairfax,ANIMAL SHELTERING,"$2,302,336.42",2019,Other
+Fairfax,BOARD OF SUPERVISORS,"$5,320,888.25",2019,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$1,030,131.40",2019,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$772,381.61",2019,Other
+Fairfax,CAPITAL FACILITIES,"$13,652,448.73",2019,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$11,681,719.31",2019,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$394,141.17",2019,Governing
+Fairfax,CODE COMPLIANCE,"$4,454,539.20",2019,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$3,939,548.04",2019,Governing
+Fairfax,COUNTY ATTORNEY,"$7,501,490.20",2019,Governing
+Fairfax,COUNTY EXECUTIVE,"$6,925,329.34",2019,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2019,Public Safety
+Fairfax,ELECTIONS,"$4,362,730.31",2019,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$1,769,630.77",2019,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$379,736,074.38",2019,Finances
+Fairfax,FACILITIES MANAGEMENT,"$59,609,372.78",2019,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$29,596,605.40",2019,Education
+Fairfax,FAMILY SERVICES,"$207,854,928.32",2019,Social Services
+Fairfax,FINANCE,"$8,864,916.05",2019,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$268,581.12",2019,Finances
+Fairfax,FIRE AND RESCUE,"$205,055,062.24",2019,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$3,903,874.33",2019,Governing
+Fairfax,HEALTH,"$62,302,805.89",2019,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$6,805,129.45",2019,Community Development
+Fairfax,HUMAN RESOURCES,"$7,637,612.28",2019,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,660,153.89",2019,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$35,405,843.50",2019,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$24,195,216.32",2019,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$29,824,990.91",2019,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$5,369,397.14",2019,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$31,794,946.56",2019,Social Services
+Fairfax,OFFICE OF INDEPENDENT POLICE AUDITOR,"$317,378.86",2019,Public Safety
+Fairfax,OFFICE OF STRATEGY MANAGEMENT FOR HHS,"$3,070,054.86",2019,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$14,026,707.49",2019,Social Services
+Fairfax,PARK AUTHORITY,"$26,068,520.65",2019,Community Development
+Fairfax,PLANNING AND ZONING,"$12,069,360.79",2019,Community Development
+Fairfax,PLANNING COMMISSION,"$833,399.61",2019,Community Development
+Fairfax,POLICE,"$203,408,783.80",2019,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$7,195,503.15",2019,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,539,247.55",2019,Governing
+Fairfax,RESTON COMMUNITY CENTER,$0.00,2019,Community Development
+Fairfax,SHERIFF,"$70,494,549.70",2019,Public Safety
+Fairfax,SOLID WASTE,$0.00,2019,Community Development
+Fairfax,STORMWATER MANAGEMENT,$0.00,2019,Community Development
+Fairfax,TAX ADMINISTRATION,"$25,310,704.82",2019,Finances
+Fairfax,TRANSPORTATION,"$8,629,374.38",2019,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$1,159,101.22",2019,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$4,154,968.29",2019,Other
+Fairfax,VEHICLE SERVICES,$0.00,2019,Community Development
+Fairfax,ACUTE & THERAPEUTIC TREATMENT,$0.00,2020,Social Services
+Fairfax,ANIMAL SHELTERING,"$2,500,479.61",2020,Other
+Fairfax,BOARD OF SUPERVISORS,"$5,259,907.41",2020,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$887,454.78",2020,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$756,232.95",2020,Other
+Fairfax,CAPITAL FACILITIES,"$14,398,262.93",2020,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$12,289,149.59",2020,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$412,227.39",2020,Governing
+Fairfax,CLERK SERVICES,"$1,683,024.67",2020,Governing
+Fairfax,CODE COMPLIANCE,"$4,283,902.36",2020,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$4,279,499.19",2020,Governing
+Fairfax,COMMUNITY LIVING TREATMENT&SUPPORTS,$0.00,2020,Social Services
+Fairfax,COUNTY ATTORNEY,"$8,168,988.86",2020,Governing
+Fairfax,COUNTY EXECUTIVE,"$5,446,082.43",2020,Governing
+Fairfax,CSB CENTRAL ADMINISTRATION,$0.00,2020,Public Safety
+Fairfax,CSB CLINICAL OPERATIONS,$0.00,2020,Public Safety
+Fairfax,ECONOMIC INITIATIVES,"$1,076,954.74",2020,Finances
+Fairfax,ELECTIONS,"$5,227,093.35",2020,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$2,034,207.22",2020,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$392,726,062.44",2020,Finances
+Fairfax,FACILITIES MANAGEMENT,"$56,915,695.65",2020,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$30,542,836.51",2020,Education
+Fairfax,FAMILY SERVICES,"$139,758,923.84",2020,Social Services
+Fairfax,FINANCE,"$8,607,115.81",2020,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$308,203.90",2020,Finances
+Fairfax,FIRE AND RESCUE,"$212,790,706.58",2020,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$4,095,886.48",2020,Governing
+Fairfax,HEALTH,"$63,172,101.43",2020,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$7,361,887.77",2020,Community Development
+Fairfax,HUMAN RESOURCES,"$8,133,117.16",2020,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$1,471,241.89",2020,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$41,323,131.89",2020,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$24,400,984.84",2020,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$28,889,000.03",2020,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$5,748,891.02",2020,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$119,682,493.94",2020,Social Services
+Fairfax,OFFICE OF INDEPENDENT POLICE AUDITOR,"$358,727.75",2020,Public Safety
+Fairfax,OFFICE OF STRATEGY MANAGEMENT FOR HHS,"$2,958,881.66",2020,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"$14,904,629.56",2020,Social Services
+Fairfax,PARK AUTHORITY,"$25,407,933.64",2020,Community Development
+Fairfax,PLANNING AND ZONING,"$13,108,718.56",2020,Community Development
+Fairfax,PLANNING COMMISSION,$0.00,2020,Community Development
+Fairfax,POLICE,"$209,646,499.79",2020,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$7,499,928.38",2020,Finances
+Fairfax,PUBLIC AFFAIRS,"$1,780,341.95",2020,Governing
+Fairfax,PUBLIC SAFETY COMMUNICATIONS,$0.00,2020,Public Safety
+Fairfax,SHERIFF,"$70,821,790.73",2020,Public Safety
+Fairfax,STORMWATER MANAGEMENT,$0.00,2020,Community Development
+Fairfax,TAX ADMINISTRATION,"$26,460,228.42",2020,Finances
+Fairfax,TRANSPORTATION,"$8,780,674.77",2020,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$18,081,153.75",2020,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$2,103,221.90",2020,Other
+Fairfax,ANIMAL SHELTERING,"$1,173,738.22",2021,Other
+Fairfax,BOARD OF SUPERVISORS,"$2,403,172.24",2021,Governing
+Fairfax,BUSINESS PLANNING AND SUPPORT,"$488,049.48",2021,Community Development
+Fairfax,CABLE AND CONSUMER SERVICES,"$425,955.76",2021,Other
+Fairfax,CAPITAL FACILITIES,"$5,890,029.97",2021,Finances
+Fairfax,CIRCUIT COURT AND RECORDS,"$5,879,101.81",2021,Governing
+Fairfax,CIVIL SERVICE COMMISSION,"$190,002.12",2021,Governing
+Fairfax,CLERK SERVICES,"$874,675.40",2021,Governing
+Fairfax,CODE COMPLIANCE,"$2,002,623.53",2021,Governing
+Fairfax,COMMONWEALTH'S ATTORNEY,"$2,428,508.58",2021,Governing
+Fairfax,COMMUNITY LIVING TREATMENT&SUPPORTS,$0.00,2021,Social Services
+Fairfax,COUNTY ATTORNEY,"$3,744,316.41",2021,Governing
+Fairfax,COUNTY EXECUTIVE,"$2,833,482.07",2021,Governing
+Fairfax,ECONOMIC INITIATIVES,"$500,905.02",2021,Finances
+Fairfax,ELECTIONS,"$3,932,914.78",2021,Governing
+Fairfax,EMERGENCY MANAGEMENT,"$893,886.64",2021,Public Safety
+Fairfax,EMPLOYEE BENEFITS,"$188,226,935.12",2021,Finances
+Fairfax,FACILITIES MANAGEMENT,"$29,181,197.92",2021,Community Development
+Fairfax,FAIRFAX COUNTY PUBLIC LIBRARY,"$12,348,667.94",2021,Education
+Fairfax,FAMILY SERVICES,"$59,389,301.12",2021,Social Services
+Fairfax,FINANCE,"$5,764,410.72",2021,Finances
+Fairfax,FINANCIAL AND PROGRAM AUDITOR,"$120,547.27",2021,Finances
+Fairfax,FIRE AND RESCUE,"$104,585,154.36",2021,Public Safety
+Fairfax,GENERAL DISTRICT COURT,"$1,885,475.47",2021,Governing
+Fairfax,HEALTH,"$34,957,244.48",2021,Social Services
+Fairfax,HOUSING AND COMMUNITY DEVELOPMENT,"$10,064,584.04",2021,Community Development
+Fairfax,HUMAN RESOURCES,"$4,071,406.62",2021,Social Services
+Fairfax,HUMAN RIGHTS AND EQUITY PROGRAMS,"$665,321.67",2021,Social Services
+Fairfax,INFORMATION TECHNOLOGY,"$26,248,856.69",2021,Social Services
+Fairfax,JUVENILE AND DOMESTIC RELATIONS DISTRICT,"$11,165,167.56",2021,Governing
+Fairfax,LAND DEVELOPMENT SERVICES,"$14,140,571.24",2021,Community Development
+Fairfax,MANAGEMENT AND BUDGET,"$2,571,533.96",2021,Finances
+Fairfax,NEIGHBORHOOD AND COMMUNITY SERVICES,"$31,498,041.21",2021,Social Services
+Fairfax,OFFICE OF INDEPENDENT POLICE AUDITOR,"$152,664.00",2021,Public Safety
+Fairfax,OFFICE OF STRATEGY MANAGEMENT FOR HHS,"$1,120,188.41",2021,Social Services
+Fairfax,OFFICE TO PREVENT AND END HOMELESSNESS,"($12,000.00)",2021,Social Services
+Fairfax,PARK AUTHORITY,"$11,412,579.29",2021,Community Development
+Fairfax,PLANNING AND ZONING,"$6,123,921.09",2021,Community Development
+Fairfax,POLICE,"$100,216,483.37",2021,Public Safety
+Fairfax,PROCUREMENT & MATERIAL MANAGEMENT,"$4,263,068.70",2021,Finances
+Fairfax,PUBLIC AFFAIRS,"$898,803.10",2021,Governing
+Fairfax,PUBLIC SAFETY COMMUNICATIONS,$234.08,2021,Public Safety
+Fairfax,RESTON COMMUNITY CENTER,$0.00,2021,Community Development
+Fairfax,RETIREMENT ADMINISTRATION,$0.00,2021,Finances
+Fairfax,SHERIFF,"$30,672,662.74",2021,Public Safety
+Fairfax,SOLID WASTE,"($1,953.22)",2021,Community Development
+Fairfax,STORMWATER MANAGEMENT,$370.21,2021,Community Development
+Fairfax,TAX ADMINISTRATION,"$13,590,873.37",2021,Finances
+Fairfax,TRANSPORTATION,"$3,735,409.29",2021,Community Development
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (NO,"$26,452,092.17",2021,Other
+Fairfax,UNCLASSIFIED ADMINISTRATIVE EXPENSES (PU,"$303,598.00",2021,Other
+Fairfax,WASTEWATER,$66.12,2021,Community Development
+Montgomery,Alcohol Beverage Services,216170394.379998,2014,Social Services
+Montgomery,Board of Appeals,47918.72,2014,Governing
+Montgomery,Board of Elections,1435298.70999999,2014,Governing
+Montgomery,CIP,8762550.19,2014,Other
+Montgomery,Circuit Court,2285506.5,2014,Governing
+Montgomery,Community Engagement Cluster,4864177.0,2014,Community Development
+Montgomery,Community Use of Public Facilities,6224328.44,2014,Community Development
+Montgomery,Consumer Protection,45416.12,2014,Social Services
+Montgomery,Correction and Rehabilitation,7697210.15,2014,Social Services
+Montgomery,County Attorney,859046.96,2014,Governing
+Montgomery,County Council,419270.17,2014,Governing
+Montgomery,County Executive,568490.439999999,2014,Governing
+Montgomery,Countywide Generic,1469091042.65999,2014,Other
+Montgomery,Debt Service,604468493.079999,2014,Finances
+Montgomery,Emergency Management and Homeland Security,4346781.51,2014,Public Safety
+Montgomery,Environmental Protection,111839178.62,2014,Community Development
+Montgomery,Ethics Commission,59426.16,2014,Social Services
+Montgomery,Finance,62715274.9199999,2014,Finances
+Montgomery,Fire and Rescue Service,25568610.4699996,2014,Public Safety
+Montgomery,General Services,301982758.059999,2014,Other
+Montgomery,Health and Human Services,116860965.569999,2014,Social Services
+Montgomery,Housing Opportunities Commission,5385311.98,2014,Community Development
+Montgomery,Housing and Community Affairs,38578138.8499999,2014,Community Development
+Montgomery,Human Resources,195402932.719999,2014,Social Services
+Montgomery,Human Rights,50170.1899999999,2014,Social Services
+Montgomery,Inspector General,262114.23,2014,Governing
+Montgomery,Intergovernmental Relations,97032.9300000002,2014,Governing
+Montgomery,Legislative Oversight,4540.62,2014,Governing
+Montgomery,Liquor Control,813168.619999999,2014,Governing
+Montgomery,Management and Budget,196190.07,2014,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,70000.0,2014,Community Development
+Montgomery,Merit System Protection Board,14602.8299999999,2014,Governing
+Montgomery,Montgomery College,99581107.0,2014,Education
+Montgomery,Non-Departmental Accounts,124604121.639999,2014,Other
+Montgomery,Not Defined,8865985.23999999,2014,Other
+Montgomery,Office of Agriculture,2290145.0,2014,Community Development
+Montgomery,Permitting Services,5267161.05000002,2014,Community Development
+Montgomery,Police,24060571.83,2014,Public Safety
+Montgomery,Public Information,909232.329999998,2014,Social Services
+Montgomery,Public Libraries,6645181.07000002,2014,Education
+Montgomery,Recreation,9295404.96000006,2014,Community Development
+Montgomery,Restricted Donations,855552.88,2014,Finances
+Montgomery,Sheriff,1694530.32999999,2014,Public Safety
+Montgomery,State's Attorney,728845.429999999,2014,Governing
+Montgomery,Technology Services,30289742.7499994,2014,Social Services
+Montgomery,Transportation,176937878.57,2014,Community Development
+Montgomery,Zoning and Administrative Hearings,44182.6899999999,2014,Community Development
+Montgomery,Alcohol Beverage Services,140730063.079999,2015,Social Services
+Montgomery,Board of Appeals,15672.7799999999,2015,Governing
+Montgomery,Board of Elections,1745642.56,2015,Governing
+Montgomery,CIP,9670541.97,2015,Other
+Montgomery,Circuit Court,2224129.83,2015,Governing
+Montgomery,Community Engagement Cluster,5391513.90000001,2015,Community Development
+Montgomery,Community Use of Public Facilities,6617046.52999998,2015,Community Development
+Montgomery,Consumer Protection,37229.96,2015,Social Services
+Montgomery,Correction and Rehabilitation,7061963.66000003,2015,Social Services
+Montgomery,County Attorney,855878.02,2015,Governing
+Montgomery,County Council,537631.41,2015,Governing
+Montgomery,County Executive,672218.839999999,2015,Governing
+Montgomery,Countywide Generic,1459595653.98,2015,Other
+Montgomery,Debt Service,839802432.8,2015,Finances
+Montgomery,Emergency Management and Homeland Security,5483366.7,2015,Public Safety
+Montgomery,Environmental Protection,110841953.61,2015,Community Development
+Montgomery,Ethics Commission,1684.21,2015,Social Services
+Montgomery,Finance,57894061.6599999,2015,Finances
+Montgomery,Fire and Rescue Service,26063704.7499996,2015,Public Safety
+Montgomery,General Services,213174412.89,2015,Other
+Montgomery,Health and Human Services,121894662.520001,2015,Social Services
+Montgomery,Housing Opportunities Commission,6468062.85,2015,Community Development
+Montgomery,Housing and Community Affairs,46642384.65,2015,Community Development
+Montgomery,Human Resources,217924886.579999,2015,Social Services
+Montgomery,Human Rights,66231.7599999999,2015,Social Services
+Montgomery,Inspector General,14092.06,2015,Governing
+Montgomery,Intergovernmental Relations,108638.97,2015,Governing
+Montgomery,Legislative Oversight,11428.29,2015,Governing
+Montgomery,Liquor Control,72034308.18,2015,Governing
+Montgomery,Management and Budget,61009.39,2015,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,1746284.0,2015,Community Development
+Montgomery,Merit System Protection Board,28509.2399999999,2015,Governing
+Montgomery,Montgomery College,117325173.0,2015,Education
+Montgomery,Non-Departmental Accounts,132455767.259997,2015,Other
+Montgomery,Not Defined,11241021.0699999,2015,Other
+Montgomery,Office of Agriculture,4541137.01999999,2015,Community Development
+Montgomery,Permitting Services,5326646.99000001,2015,Community Development
+Montgomery,Police,26782501.1399999,2015,Public Safety
+Montgomery,Public Information,923513.179999999,2015,Social Services
+Montgomery,Public Libraries,6711283.64000002,2015,Education
+Montgomery,Recreation,9457458.64000003,2015,Community Development
+Montgomery,Restricted Donations,2692390.07,2015,Finances
+Montgomery,Sheriff,1700991.34999999,2015,Public Safety
+Montgomery,State's Attorney,904294.889999999,2015,Governing
+Montgomery,Technology Services,32510530.9000004,2015,Social Services
+Montgomery,Transportation,183035897.469999,2015,Community Development
+Montgomery,Zoning and Administrative Hearings,55884.82,2015,Community Development
+Montgomery,Alcohol Beverage Services,25232118.8399999,2016,Social Services
+Montgomery,Board of Appeals,17845.96,2016,Governing
+Montgomery,Board of Elections,2404743.05999999,2016,Governing
+Montgomery,CIP,22682343.11,2016,Other
+Montgomery,Circuit Court,2809719.07999999,2016,Governing
+Montgomery,Community Engagement Cluster,4401193.76000001,2016,Community Development
+Montgomery,Community Use of Public Facilities,7003539.58999999,2016,Community Development
+Montgomery,Consumer Protection,16404.67,2016,Social Services
+Montgomery,Correction and Rehabilitation,6860686.74000003,2016,Social Services
+Montgomery,County Attorney,573004.3,2016,Governing
+Montgomery,County Council,379656.77,2016,Governing
+Montgomery,County Executive,481841.959999999,2016,Governing
+Montgomery,Countywide Generic,1479154209.0,2016,Other
+Montgomery,Debt Service,649435812.33,2016,Finances
+Montgomery,Emergency Management and Homeland Security,4570756.72,2016,Public Safety
+Montgomery,Environmental Protection,111378254.03,2016,Community Development
+Montgomery,Ethics Commission,75607.9,2016,Social Services
+Montgomery,Finance,57878708.42,2016,Finances
+Montgomery,Fire and Rescue Service,33601192.0799997,2016,Public Safety
+Montgomery,General Services,224613072.51,2016,Other
+Montgomery,Health and Human Services,126280097.09,2016,Social Services
+Montgomery,Housing Opportunities Commission,6050749.89,2016,Community Development
+Montgomery,Housing and Community Affairs,43543195.79,2016,Community Development
+Montgomery,Human Resources,224738126.99,2016,Social Services
+Montgomery,Human Rights,73171.63,2016,Social Services
+Montgomery,Inspector General,12756.84,2016,Governing
+Montgomery,Intergovernmental Relations,108590.509999999,2016,Governing
+Montgomery,Legislative Oversight,31274.5599999999,2016,Governing
+Montgomery,Liquor Control,201562798.939999,2016,Governing
+Montgomery,Management and Budget,45518.5199999999,2016,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,811500.0,2016,Community Development
+Montgomery,Merit System Protection Board,8727.23,2016,Governing
+Montgomery,Montgomery College,128319952.0,2016,Education
+Montgomery,Non-Departmental Accounts,155707767.349994,2016,Other
+Montgomery,Not Defined,27350898.5499999,2016,Other
+Montgomery,Office of Agriculture,820487.77,2016,Community Development
+Montgomery,Office of Procurement,259574.43,2016,Finances
+Montgomery,Permitting Services,5599682.38000001,2016,Community Development
+Montgomery,Police,28664058.9599999,2016,Public Safety
+Montgomery,Public Information,750000.87,2016,Social Services
+Montgomery,Public Libraries,9086644.12000003,2016,Education
+Montgomery,Recreation,10405940.08,2016,Community Development
+Montgomery,Restricted Donations,547711.5,2016,Finances
+Montgomery,Sheriff,1721014.57999999,2016,Public Safety
+Montgomery,State's Attorney,668772.449999999,2016,Governing
+Montgomery,Technology Services,46436262.6200003,2016,Social Services
+Montgomery,Transportation,188655360.589998,2016,Community Development
+Montgomery,Zoning and Administrative Hearings,52334.64,2016,Community Development
+Montgomery,Alcohol Beverage Services,31883083.33,2017,Social Services
+Montgomery,Board of Appeals,11942.4,2017,Governing
+Montgomery,Board of Elections,2816653.34,2017,Governing
+Montgomery,CIP,28250072.7999999,2017,Other
+Montgomery,Circuit Court,2476356.69999999,2017,Governing
+Montgomery,Community Engagement Cluster,4795022.82000002,2017,Community Development
+Montgomery,Community Use of Public Facilities,6806909.94999999,2017,Community Development
+Montgomery,Consumer Protection,13124.1,2017,Social Services
+Montgomery,Correction and Rehabilitation,7678393.68000003,2017,Social Services
+Montgomery,County Attorney,686626.25,2017,Governing
+Montgomery,County Council,410602.99,2017,Governing
+Montgomery,County Executive,626846.249999999,2017,Governing
+Montgomery,Countywide Generic,1592242791.0,2017,Other
+Montgomery,Debt Service,727774500.769999,2017,Finances
+Montgomery,Emergency Management and Homeland Security,4233968.9,2017,Public Safety
+Montgomery,Environmental Protection,101898365.11,2017,Community Development
+Montgomery,Ethics Commission,60860.32,2017,Social Services
+Montgomery,Finance,70840107.5199997,2017,Finances
+Montgomery,Fire and Rescue Service,41308866.2499995,2017,Public Safety
+Montgomery,General Services,169888535.990001,2017,Other
+Montgomery,Health and Human Services,145160503.15,2017,Social Services
+Montgomery,Housing Opportunities Commission,6428985.37,2017,Community Development
+Montgomery,Housing and Community Affairs,42592965.2599998,2017,Community Development
+Montgomery,Human Resources,235285454.02,2017,Social Services
+Montgomery,Human Rights,131278.81,2017,Social Services
+Montgomery,Inspector General,5285.79999999999,2017,Governing
+Montgomery,Intergovernmental Relations,128078.88,2017,Governing
+Montgomery,Legislative Oversight,38940.76,2017,Governing
+Montgomery,Liquor Control,221212798.38,2017,Governing
+Montgomery,Management and Budget,89065.2399999999,2017,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,843200.0,2017,Community Development
+Montgomery,Merit System Protection Board,22233.48,2017,Governing
+Montgomery,Montgomery College,134895334.0,2017,Education
+Montgomery,Non-Departmental Accounts,171376532.899997,2017,Other
+Montgomery,Not Defined,6747002.64,2017,Other
+Montgomery,Office of Agriculture,1360893.77,2017,Community Development
+Montgomery,Office of Procurement,386898.55,2017,Finances
+Montgomery,Permitting Services,4910895.23999999,2017,Community Development
+Montgomery,Police,25018618.7399999,2017,Public Safety
+Montgomery,Public Information,938043.949999998,2017,Social Services
+Montgomery,Public Libraries,7624261.3000001,2017,Education
+Montgomery,Recreation,11283803.55,2017,Community Development
+Montgomery,Restricted Donations,3709337.82,2017,Finances
+Montgomery,Sheriff,1832235.73,2017,Public Safety
+Montgomery,State's Attorney,767902.949999999,2017,Governing
+Montgomery,Technology Services,61275947.7400004,2017,Social Services
+Montgomery,Transportation,167116672.639999,2017,Community Development
+Montgomery,Zoning and Administrative Hearings,48326.7399999999,2017,Community Development
+Montgomery,Alcohol Beverage Services,30725065.1599998,2018,Social Services
+Montgomery,Board of Appeals,11900.8999999999,2018,Governing
+Montgomery,Board of Elections,2699791.36,2018,Governing
+Montgomery,CIP,14486182.7999999,2018,Other
+Montgomery,Circuit Court,2521503.76999999,2018,Governing
+Montgomery,Community Engagement Cluster,4670472.72,2018,Community Development
+Montgomery,Community Use of Public Facilities,7341171.11999999,2018,Community Development
+Montgomery,Consumer Protection,18150.17,2018,Social Services
+Montgomery,Correction and Rehabilitation,7966043.17000002,2018,Social Services
+Montgomery,County Attorney,692261.969999999,2018,Governing
+Montgomery,County Council,511787.0,2018,Governing
+Montgomery,County Executive,548175.059999999,2018,Governing
+Montgomery,Countywide Generic,1679695583.98,2018,Other
+Montgomery,Debt Service,759176701.03,2018,Finances
+Montgomery,Emergency Management and Homeland Security,6467485.95,2018,Public Safety
+Montgomery,Environmental Protection,107961139.74,2018,Community Development
+Montgomery,Ethics Commission,143451.06,2018,Social Services
+Montgomery,Finance,69768155.02,2018,Finances
+Montgomery,Fire and Rescue Service,26102273.1599997,2018,Public Safety
+Montgomery,General Services,153894991.98,2018,Other
+Montgomery,Health and Human Services,141306939.329999,2018,Social Services
+Montgomery,Housing Opportunities Commission,6766771.79999999,2018,Community Development
+Montgomery,Housing and Community Affairs,48682681.0599999,2018,Community Development
+Montgomery,Human Resources,247664146.75,2018,Social Services
+Montgomery,Human Rights,108178.999999999,2018,Social Services
+Montgomery,Inspector General,9503.93,2018,Governing
+Montgomery,Intergovernmental Relations,198141.49,2018,Governing
+Montgomery,Legislative Oversight,19224.47,2018,Governing
+Montgomery,Liquor Control,195996572.779998,2018,Governing
+Montgomery,Management and Budget,185694.06,2018,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,890700.0,2018,Community Development
+Montgomery,Merit System Protection Board,81953.89,2018,Governing
+Montgomery,Montgomery College,140028512.0,2018,Education
+Montgomery,Non-Departmental Accounts,177841974.009999,2018,Other
+Montgomery,Not Defined,3245609.75,2018,Other
+Montgomery,Office of Agriculture,424186.929999999,2018,Community Development
+Montgomery,Office of Procurement,383745.96,2018,Finances
+Montgomery,Permitting Services,4916383.81,2018,Community Development
+Montgomery,Police,27175957.4200002,2018,Public Safety
+Montgomery,Public Information,422850.109999999,2018,Social Services
+Montgomery,Public Libraries,8646948.86999999,2018,Education
+Montgomery,Recreation,11439796.17,2018,Community Development
+Montgomery,Restricted Donations,3779907.64,2018,Finances
+Montgomery,Sheriff,2143914.5,2018,Public Safety
+Montgomery,State's Attorney,886412.52,2018,Governing
+Montgomery,Technology Services,38238627.840002,2018,Social Services
+Montgomery,Transportation,288645995.549999,2018,Community Development
+Montgomery,Zoning and Administrative Hearings,63617.23,2018,Community Development
+Montgomery,Alcohol Beverage Services,22572076.9499999,2019,Social Services
+Montgomery,Board of Appeals,15435.2,2019,Governing
+Montgomery,Board of Elections,3206018.75999999,2019,Governing
+Montgomery,CIP,19232279.12,2019,Other
+Montgomery,Circuit Court,2951751.93999999,2019,Governing
+Montgomery,Community Engagement Cluster,4911719.8,2019,Community Development
+Montgomery,Community Use of Public Facilities,7277153.11999999,2019,Community Development
+Montgomery,Consumer Protection,22920.4099999999,2019,Social Services
+Montgomery,Correction and Rehabilitation,8409006.11000001,2019,Social Services
+Montgomery,County Attorney,633167.389999999,2019,Governing
+Montgomery,County Council,470994.629999999,2019,Governing
+Montgomery,County Executive,753088.939999998,2019,Governing
+Montgomery,Countywide Generic,1700095031.8,2019,Other
+Montgomery,Debt Service,745833069.8,2019,Finances
+Montgomery,Emergency Management and Homeland Security,3032815.78,2019,Public Safety
+Montgomery,Environmental Protection,119643298.689999,2019,Community Development
+Montgomery,Ethics Commission,51302.0399999999,2019,Social Services
+Montgomery,Finance,81016470.5699998,2019,Finances
+Montgomery,Fire and Rescue Service,28457027.4299995,2019,Public Safety
+Montgomery,General Services,173280309.950001,2019,Other
+Montgomery,Health and Human Services,140353233.559999,2019,Social Services
+Montgomery,Housing Opportunities Commission,929302.15,2019,Community Development
+Montgomery,Housing and Community Affairs,124363429.55,2019,Community Development
+Montgomery,Human Resources,263793586.97,2019,Social Services
+Montgomery,Human Rights,144864.57,2019,Social Services
+Montgomery,Inspector General,15922.3299999999,2019,Governing
+Montgomery,Intergovernmental Relations,174033.809999999,2019,Governing
+Montgomery,Legislative Oversight,134298.919999999,2019,Governing
+Montgomery,Liquor Control,206100975.209998,2019,Governing
+Montgomery,Management and Budget,158626.1,2019,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,1016700.0,2019,Community Development
+Montgomery,Merit System Protection Board,4753.66,2019,Governing
+Montgomery,Montgomery College,142560545.0,2019,Education
+Montgomery,Non-Departmental Accounts,181293740.840002,2019,Other
+Montgomery,Not Defined,1018158.48,2019,Other
+Montgomery,Office of Agriculture,396100.41,2019,Community Development
+Montgomery,Office of Procurement,291508.039999999,2019,Finances
+Montgomery,Permitting Services,4751729.91000001,2019,Community Development
+Montgomery,Police,27013788.7500001,2019,Public Safety
+Montgomery,Public Information,222278.53,2019,Social Services
+Montgomery,Public Libraries,9436713.23,2019,Education
+Montgomery,Recreation,11209991.04,2019,Community Development
+Montgomery,Restricted Donations,538587.309999999,2019,Finances
+Montgomery,Sheriff,2238481.96,2019,Public Safety
+Montgomery,State's Attorney,875548.62,2019,Governing
+Montgomery,Technology Services,38739321.020002,2019,Social Services
+Montgomery,Transportation,313096325.37,2019,Community Development
+Montgomery,Zoning and Administrative Hearings,43743.6799999999,2019,Community Development
+Montgomery,Alcohol Beverage Services,18299225.84,2020,Social Services
+Montgomery,Board of Appeals,10376.23,2020,Governing
+Montgomery,Board of Elections,2801195.24999999,2020,Governing
+Montgomery,CIP,24680315.22,2020,Other
+Montgomery,Circuit Court,2742090.76,2020,Governing
+Montgomery,Community Engagement Cluster,4892800.74000002,2020,Community Development
+Montgomery,Community Use of Public Facilities,6059890.93,2020,Community Development
+Montgomery,Consumer Protection,112672.27,2020,Social Services
+Montgomery,Correction and Rehabilitation,7152016.43000002,2020,Social Services
+Montgomery,County Attorney,642874.619999999,2020,Governing
+Montgomery,County Council,709620.46,2020,Governing
+Montgomery,County Executive,1121286.23999999,2020,Governing
+Montgomery,Countywide Generic,1712834175.22,2020,Other
+Montgomery,Debt Service,795253707.869999,2020,Finances
+Montgomery,Emergency Management and Homeland Security,8246512.42999999,2020,Public Safety
+Montgomery,Environmental Protection,123181384.309999,2020,Community Development
+Montgomery,Ethics Commission,1099.24,2020,Social Services
+Montgomery,Finance,99360063.9400002,2020,Finances
+Montgomery,Fire and Rescue Service,49058339.1499999,2020,Public Safety
+Montgomery,General Services,157248437.75,2020,Other
+Montgomery,Health and Human Services,138262872.639998,2020,Social Services
+Montgomery,Housing and Community Affairs,55912610.3100001,2020,Community Development
+Montgomery,Human Resources,265974590.689999,2020,Social Services
+Montgomery,Human Rights,115614.95,2020,Social Services
+Montgomery,Inspector General,101749.8,2020,Governing
+Montgomery,Intergovernmental Relations,154750.269999999,2020,Governing
+Montgomery,Legislative Oversight,24130.6299999999,2020,Governing
+Montgomery,Liquor Control,196921967.92,2020,Governing
+Montgomery,Management and Budget,161399.61,2020,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,1391700.0,2020,Community Development
+Montgomery,Merit System Protection Board,6481.13,2020,Governing
+Montgomery,Montgomery College,145464392.0,2020,Education
+Montgomery,Non-Departmental Accounts,199822591.159996,2020,Other
+Montgomery,Office of Agriculture,382784.53,2020,Community Development
+Montgomery,Office of Procurement,373074.789999999,2020,Finances
+Montgomery,Permitting Services,5465224.36,2020,Community Development
+Montgomery,Police,25047647.9100002,2020,Public Safety
+Montgomery,Public Information,153592.749999999,2020,Social Services
+Montgomery,Public Libraries,8605150.19000001,2020,Education
+Montgomery,Recreation,13986360.8600001,2020,Community Development
+Montgomery,Restricted Donations,621394.229999999,2020,Finances
+Montgomery,Sheriff,2166787.34999999,2020,Public Safety
+Montgomery,State's Attorney,850896.669999999,2020,Governing
+Montgomery,Technology Services,46937390.7400012,2020,Social Services
+Montgomery,Transportation,294603147.449999,2020,Community Development
+Montgomery,Zoning and Administrative Hearings,60844.6,2020,Community Development
+Montgomery,Alcohol Beverage Services,7671243.41999999,2021,Social Services
+Montgomery,Board of Appeals,4073.98,2021,Governing
+Montgomery,Board of Elections,2207982.33999999,2021,Governing
+Montgomery,CIP,2935344.51999999,2021,Other
+Montgomery,Circuit Court,693602.689999998,2021,Governing
+Montgomery,Community Engagement Cluster,3270754.67,2021,Community Development
+Montgomery,Community Use of Public Facilities,778409.58,2021,Community Development
+Montgomery,Consumer Protection,8577.81,2021,Social Services
+Montgomery,Correction and Rehabilitation,2815945.15,2021,Social Services
+Montgomery,County Attorney,313977.709999999,2021,Governing
+Montgomery,County Council,205289.449999999,2021,Governing
+Montgomery,County Executive,617736.469999999,2021,Governing
+Montgomery,Countywide Generic,931413332.67,2021,Other
+Montgomery,Debt Service,670208766.12,2021,Finances
+Montgomery,Emergency Management and Homeland Security,2283033.93999999,2021,Public Safety
+Montgomery,Environmental Protection,55524432.0199999,2021,Community Development
+Montgomery,Ethics Commission,24570.0,2021,Social Services
+Montgomery,Finance,48873293.62,2021,Finances
+Montgomery,Fire and Rescue Service,11826250.4499999,2021,Public Safety
+Montgomery,General Services,93150223.6699999,2021,Other
+Montgomery,Health and Human Services,79569530.4399997,2021,Social Services
+Montgomery,Housing and Community Affairs,30867196.49,2021,Community Development
+Montgomery,Human Resources,134671773.02,2021,Social Services
+Montgomery,Human Rights,19988.2,2021,Social Services
+Montgomery,Inspector General,13908.1999999999,2021,Governing
+Montgomery,Intergovernmental Relations,69166.37,2021,Governing
+Montgomery,Legislative Oversight,10772.0699999999,2021,Governing
+Montgomery,Liquor Control,107742395.079999,2021,Governing
+Montgomery,Management and Budget,77090.8199999999,2021,Finances
+Montgomery,Maryland National Capital Park And Planning Commission,300000.0,2021,Community Development
+Montgomery,Merit System Protection Board,3608.01,2021,Governing
+Montgomery,Montgomery College,72712743.5,2021,Education
+Montgomery,Non-Departmental Accounts,158983058.839999,2021,Other
+Montgomery,Office of Agriculture,61906.31,2021,Community Development
+Montgomery,Office of Animal Services,321992.3,2021,Other
+Montgomery,Office of Labor Relations,69599.15,2021,Finances
+Montgomery,Office of Procurement,128732.62,2021,Finances
+Montgomery,Permitting Services,2369007.64,2021,Community Development
+Montgomery,Police,11985404.8399999,2021,Public Safety
+Montgomery,Public Information,119362.879999999,2021,Social Services
+Montgomery,Public Libraries,4180498.31,2021,Education
+Montgomery,Racial Equity and Social Justice,12653.36,2021,Social Services
+Montgomery,Recreation,2873815.25999999,2021,Community Development
+Montgomery,Restricted Donations,56846.9999999999,2021,Finances
+Montgomery,Sheriff,1133593.37999999,2021,Public Safety
+Montgomery,State's Attorney,208185.27,2021,Governing
+Montgomery,Technology Services,26809035.7199999,2021,Social Services
+Montgomery,Transportation,87200792.3899998,2021,Community Development
+Montgomery,Zoning and Administrative Hearings,33118.56,2021,Community Development
+Prince William,Board Of County Supervisors,3640802,2014,Governing
+Prince William,Office Of Executive Management (A),3245761,2014,Governing
+Prince William,Audit Services (A),789430,2014,Finance
+Prince William,County Attorney,3425755,2014,Governing
+Prince William,Board Of Equalization,54254,2014,Governing
+Prince William,Contingency Reserve,750000,2014,Finance
+Prince William,Finance,16956751,2014,Finance
+Prince William,Management & Budget (A),1340238,2014,Finance
+Prince William,Human Resources (A),3074623,2014,Social Services
+Prince William,Human Rights Office,557428,2014,Social Services
+Prince William,Information Technology,0,2014,Social Services
+Prince William,General Registrar,2110111,2014,Governing
+Prince William,Property & Misc. Insurance,955375,2014,Finance
+Prince William,Unemployment Insurance Reserve,75000,2014,Finance
+Prince William,Clerk Of The Court,3836392,2014,Governing
+Prince William,Circuit Court Judges,703435,2014,Governing
+Prince William,Commonwealth's Attorney,5150403,2014,Governing
+Prince William,Criminal Justice  Services,3243241,2014,Governing
+Prince William,Juvenile Court Service Unit,1082334,2014,Governing
+Prince William,General District Court,262378,2014,Governing
+Prince William,Juvenile & Domestic Relations Court,101184,2014,Governing
+Prince William,Law Library,161064,2014,Education
+Prince William,Magistrates,221389,2014,Governing
+Prince William,Economic Development,2412715,2014,Community Development
+Prince William,Planning,4046358,2014,Community Development
+Prince William,Tran. To Conven. & Visitors Bureau,1098812,2014,Community Development
+Prince William,Transfer To Housing,21082,2014,Community Development
+Prince William,Transfer To Special Revenue Fund,3280027,2014,Other
+Prince William,Transportation,2646049,2014,Community Development
+Prince William,Public Works,30061662,2014,Community Development
+Prince William,Fire And Rescue,68425331,2014,Public Safety
+Prince William,Public Safety Communications,9474584,2014,Public Safety
+Prince William,Sheriff,8900311,2014,Public Safety
+Prince William,Transfer To Jail,25249492,2014,Public Safety
+Prince William,Police,85665079,2014,Public Safety
+Prince William,Community Services,36044123,2014,Community Development
+Prince William,Cooperative Extension Service,798061,2014,Social Services
+Prince William,Area Agency On Aging,5590428,2014,Social Services
+Prince William,At Risk Youth And Family Services,8605506,2014,Social Services
+Prince William,Public Health (B),4000292,2014,Social Services
+Prince William,Social Services,30656512,2014,Social Services
+Prince William,Library,13653943,2014,Education
+Prince William,Park Authority Local Contribution (C),0,2014,Community Development
+Prince William,Parks and Recreation (C),16551495,2014,Community Development
+Prince William,Trans To Construction Funds,7174039,2014,Community Development
+Prince William,Trans To Vol. Fire Construction Fund,761944,2014,Community Development
+Prince William,Trans To IT Internal Serv Const Fund,14331072,2014,Other
+Prince William,Transfer to Enterprise Fund,6880753,2014,Other
+Prince William,General Debt,43950067,2014,Finance
+Prince William,No. Va. Crim. Just. Training Acad. Debt,453165,2014,Finance
+Prince William,UOSA Expansion Debt,0,2014,Finance
+Prince William,Unclassified Administrative,9268301,2014,Other
+Prince William,Comm. parking lease rev bond debt,0,2014,Finance
+Prince William,Adult Detention Center,39458514,2014,Social Services
+Prince William,Lake Jackson Service Dist.,152530,2014,Other
+Prince William,Bull Run Mountain Serv. Dist.,232500,2014,Other
+Prince William,Gypsy Moth/Mosquito Control Dist.,1746512,2014,Other
+Prince William,P. W. Parkway Trans Imprv Dst.,2300000,2014,Other
+Prince William,234 Bypass Trans Imprv Dst,200000,2014,Other
+Prince William,Public Works- Stormwater Mgmt.,7432969,2014,Community Development
+Prince William,Public Works- Site Dev. Fee,1931631,2014,Community Development
+Prince William,Planning- Site Dev. Fee,1472463,2014,Community Development
+Prince William,Transportation- Site Dev Fee,2095349,2014,Community Development
+Prince William,Development Services - Dev Fee,12612766,2014,Community Development
+Prince William,Housing & Community Dev.,32866144,2014,Community Development
+Prince William,Capital Improvement Projects,10485153,2014,Finance
+Prince William,Parks and Recreation,14137921,2014,Community Development
+Prince William,Public Works; Solid Waste,33174179,2014,Community Development
+Prince William,Innovation @ Prince William,35000,2014,Community Development
+Prince William,Public Works; Fleet Management,8359115,2014,Community Development
+Prince William,DoIT; Data Processing,39833493,2014,Social Services
+Prince William,Medical Insurance,55586000,2014,Finance
+Prince William,Public Works; Small Proj. Const.,1927860,2014,Community Development
+Prince William,Bacon Race,1200000,2014,Public Safety
+Prince William,Buckhall,806440,2014,Public Safety
+Prince William,Coles,895740,2014,Public Safety
+Prince William,Dumfries Triangle Fire,1671144,2014,Public Safety
+Prince William,Dumfries Triangle Rescue,805207,2014,Public Safety
+Prince William,Evergreen,708091,2014,Public Safety
+Prince William,"Gainesville Station #4, #24 (D)",693710,2014,Public Safety
+Prince William,Lake Jackson,851595,2014,Public Safety
+Prince William,Neabsco,3756026,2014,Public Safety
+Prince William,Nokesville,1777727,2014,Public Safety
+Prince William,O.W.L. Fire,3229766,2014,Public Safety
+Prince William,Stonewall Jackson,886872,2014,Public Safety
+Prince William,Wellington,0,2014,Public Safety
+Prince William,Yorkshire,701504,2014,Public Safety
+Prince William,Antioch Station #24 (D),614609,2014,Public Safety
+Prince William,River Oaks Station #23,508360,2014,Public Safety
+Prince William,800 MHz / MDT Fund,1512170,2014,Public Safety
+Prince William,800 MHz Infrastructure Conrib.,0,2014,Public Safety
+Prince William,Capital Fund,5792678,2014,Finance
+Prince William,Line of Duty Death Act (LODA),175000,2014,Public Safety
+Prince William,FRA Board of Directors Set Aside,0,2014,Public Safety
+Prince William,FRA Board of Directors Apparatus Fund,0,2014,Public Safety
+Prince William,Fire Levy Support to DFR,5236993,2014,Public Safety
+Prince William,Fire Levy Support to Public Works,0,2014,Public Safety
+Prince William,Lease Space,135000,2014,Public Safety
+Prince William,Network Login Charges,0,2014,Public Safety
+Prince William,FRA Membership Initiative,41000,2014,Public Safety
+Prince William,NFPA Medical Physical Examinations,800000,2014,Public Safety
+Prince William,Volunteer Training,0,2014,Public Safety
+Prince William,Operating Fund,887971916,2014,Finance
+Prince William,School Debt Service Fund,74899758,2014,Finance
+Prince William,Construction Fund,209620417,2014,Community Development
+Prince William,Food Service Fund,42866062,2014,Community Development
+Prince William,Warehouse,5500000,2014,Community Development
+Prince William,Facilities Use Fund,1388658,2014,Community Development
+Prince William,Self Insurance Fund,4531035,2014,Finance
+Prince William,Health Insurance Fund,79482633,2014,Finance
+Prince William,Regional School Fund,40793831,2014,Education
+Prince William,Gov School @ Innovation Pk,777000,2014,Education
+Prince William,SACC Program Fund,630000,2014,Education
+Prince William,Economic Development,2797050,2015,Community Development
+Prince William,Economic Development,"$3,830,159",2016,Community Development
+Prince William,Economic Development,"$3,458,318",2017,Community Development
+Prince William,Economic Development,"$2,694,723",2018,Community Development
+Prince William,Economic Development,"$2,918,779",2019,Community Development
+Prince William,Library,13945803,2015,Education
+Prince William,Library,"$16,610,758",2016,Education
+Prince William,Library,"$16,329,666",2017,Education
+Prince William,Library,"$17,447,221",2018,Education
+Prince William,Library,"$17,758,658",2019,Education
+Prince William,Parks & Recreation,28030049,2015,Community Development
+Prince William,Parks & Recreation,"$29,059,350",2016,Community Development
+Prince William,Parks & Recreation,"$35,270,560",2017,Community Development
+Prince William,Parks & Recreation,"$30,048,427",2018,Community Development
+Prince William,Parks & Recreation,"$30,945,302",2019,Community Development
+Prince William,Planning,3289886,2015,Community Development
+Prince William,Planning,"$3,398,062",2016,Community Development
+Prince William,Planning,"$3,691,773",2017,Community Development
+Prince William,Planning,"$3,684,686",2018,Community Development
+Prince William,Planning,"$3,965,819",2019,Community Development
+Prince William,Public Works,30737674,2015,Community Development
+Prince William,Public Works,"$30,660,012",2016,Community Development
+Prince William,Public Works,"$33,950,393",2017,Community Development
+Prince William,Public Works,"$33,997,722",2018,Community Development
+Prince William,Public Works,"$34,868,319",2019,Community Development
+Prince William,Transportation,2444035,2015,Community Development
+Prince William,Transportation,"$2,572,136",2016,Community Development
+Prince William,Transportation,"$2,363,540",2017,Community Development
+Prince William,Transportation,"$2,772,203",2018,Community Development
+Prince William,Transportation,"$2,849,513",2019,Community Development
+Prince William,Board of County Supervisors,3264225,2015,Governing
+Prince William,Board of County Supervisors,"$3,519,609",2016,Governing
+Prince William,Board of County Supervisors,"$3,302,633",2017,Governing
+Prince William,Board of County Supervisors,"$4,522,407",2018,Governing
+Prince William,Board of County Supervisors,"$4,760,166",2019,Governing
+Prince William,Audit Services,777017,2015,Governing
+Prince William,Audit Services,"$868,322",2016,Governing
+Prince William,Audit Services,"$427,298",2017,Governing
+Prince William,Audit Services,$0,2018,Governing
+Prince William,Audit Services,$0,2019,Governing
+Prince William,County Attorney,3454871,2015,Governing
+Prince William,County Attorney,"$3,628,370",2016,Governing
+Prince William,County Attorney,"$3,543,698",2017,Governing
+Prince William,County Attorney,"$3,757,373",2018,Governing
+Prince William,County Attorney,"$3,916,028",2019,Governing
+Prince William,Elections,2518433,2015,Governing
+Prince William,Elections,"$2,170,232",2016,Governing
+Prince William,Elections,"$2,913,542",2017,Governing
+Prince William,Elections,"$1,718,071",2018,Governing
+Prince William,Elections,"$1,855,391",2019,Governing
+Prince William,Executive Management,3751986,2015,Governing
+Prince William,Executive Management,"$3,839,919",2016,Governing
+Prince William,Executive Management,"$3,768,312",2017,Governing
+Prince William,Executive Management,"$4,017,217",2018,Governing
+Prince William,Executive Management,"$4,308,916",2019,Governing
+Prince William,Finance,25162222,2015,Finance
+Prince William,Finance,"$24,425,848",2016,Finance
+Prince William,Finance,"$35,520,744",2017,Finance
+Prince William,Finance,"$19,965,596",2018,Finance
+Prince William,Finance,"$21,072,708",2019,Finance
+Prince William,Human Resources,2914515,2015,Social Services
+Prince William,Human Resources,"$3,090,316",2016,Social Services
+Prince William,Human Resources,"$2,956,089",2017,Social Services
+Prince William,Human Resources,"$3,258,128",2018,Social Services
+Prince William,Human Resources,"$3,411,442",2019,Social Services
+Prince William,Human Rights Office,594500,2015,Social Services
+Prince William,Human Rights Office,"$591,585",2016,Social Services
+Prince William,Human Rights Office,"$643,419",2017,Social Services
+Prince William,Human Rights Office,"$667,937",2018,Social Services
+Prince William,Human Rights Office,"$852,346",2019,Social Services
+Prince William,Management & Budget,1534787,2015,Finance
+Prince William,Management & Budget,"$1,613,701",2016,Finance
+Prince William,Management & Budget,"$1,677,971",2017,Finance
+Prince William,Management & Budget,"$1,806,691",2018,Finance
+Prince William,Management & Budget,"$1,589,962",2019,Finance
+Prince William,Area Agency on Aging,5241195,2015,Social Services
+Prince William,Area Agency on Aging,"$5,390,653",2016,Social Services
+Prince William,Area Agency on Aging,"$5,467,009",2017,Social Services
+Prince William,Area Agency on Aging,"$5,979,980",2018,Social Services
+Prince William,Area Agency on Aging,"$6,155,703",2019,Social Services
+Prince William,Public Health,3932279,2015,Social Services
+Prince William,Public Health,"$3,351,109",2016,Social Services
+Prince William,Public Health,"$3,361,304",2017,Social Services
+Prince William,Public Health,"$3,397,675",2018,Social Services
+Prince William,Public Health,"$3,402,469",2019,Social Services
+Prince William,Social Services,40827941,2015,Social Services
+Prince William,Social Services,"$42,951,265",2016,Social Services
+Prince William,Social Services,"$46,925,112",2017,Social Services
+Prince William,Social Services,"$51,095,403",2018,Social Services
+Prince William,Social Services,"$51,998,962",2019,Social Services
+Prince William,Virginia Cooperative Extension,860214,2015,Education
+Prince William,Virginia Cooperative Extension,"$853,888",2016,Education
+Prince William,Virginia Cooperative Extension,"$790,974",2017,Education
+Prince William,Virginia Cooperative Extension,"$820,204",2018,Education
+Prince William,Virginia Cooperative Extension,"$921,082",2019,Education
+Prince William,Community Services,37102785,2015,Community Development
+Prince William,Community Services,"$40,284,827",2016,Community Development
+Prince William,Community Services,"$40,911,066",2017,Community Development
+Prince William,Community Services,"$44,171,739",2018,Community Development
+Prince William,Community Services,"$46,943,288",2019,Community Development
+Prince William,Adult Detention Center,0,2015,Social Services
+Prince William,Adult Detention Center,$0,2016,Social Services
+Prince William,Adult Detention Center,"$9,976",2017,Social Services
+Prince William,Adult Detention Center,$0,2018,Social Services
+Prince William,Adult Detention Center,$0,2019,Social Services
+Prince William,Circuit Court Judges,656243,2015,Governing
+Prince William,Circuit Court Judges,"$776,856",2016,Governing
+Prince William,Circuit Court Judges,"$794,151",2017,Governing
+Prince William,Circuit Court Judges,"$739,075",2018,Governing
+Prince William,Circuit Court Judges,"$763,865",2019,Governing
+Prince William,Clerk of the Court,3791209,2015,Governing
+Prince William,Clerk of the Court,"$3,906,419",2016,Governing
+Prince William,Clerk of the Court,"$4,322,887",2017,Governing
+Prince William,Clerk of the Court,"$4,023,932",2018,Governing
+Prince William,Clerk of the Court,"$4,089,527",2019,Governing
+Prince William,Commonwealth's Attorney,5210225,2015,Governing
+Prince William,Commonwealth's Attorney,"$5,421,020",2016,Governing
+Prince William,Commonwealth's Attorney,"$5,636,438",2017,Governing
+Prince William,Commonwealth's Attorney,"$6,178,819",2018,Governing
+Prince William,Commonwealth's Attorney,"$6,270,255",2019,Governing
+Prince William,Criminal Justice Services,3401340,2015,Governing
+Prince William,Criminal Justice Services,"$3,564,303",2016,Governing
+Prince William,Criminal Justice Services,"$3,854,312",2017,Governing
+Prince William,Criminal Justice Services,"$4,212,834",2018,Governing
+Prince William,Criminal Justice Services,"$4,437,573",2019,Governing
+Prince William,Fire & Rescue,66244793,2015,Public Safety
+Prince William,Fire & Rescue,"$71,729,616",2016,Public Safety
+Prince William,Fire & Rescue,"$80,053,705",2017,Public Safety
+Prince William,Fire & Rescue,"$88,451,114",2018,Public Safety
+Prince William,Fire & Rescue,"$93,603,377",2019,Public Safety
+Prince William,General District Court,191211,2015,Governing
+Prince William,General District Court,"$191,193",2016,Governing
+Prince William,General District Court,"$202,950",2017,Governing
+Prince William,General District Court,"$277,272",2018,Governing
+Prince William,General District Court,"$279,571",2019,Governing
+Prince William,Juvenile & Domestic Relations Court,95923,2015,Governing
+Prince William,Juvenile & Domestic Relations Court,"$83,054",2016,Governing
+Prince William,Juvenile & Domestic Relations Court,"$95,006",2017,Governing
+Prince William,Juvenile & Domestic Relations Court,"$109,128",2018,Governing
+Prince William,Juvenile & Domestic Relations Court,"$109,128",2019,Governing
+Prince William,Juvenile Court Services Unit,1055266,2015,Governing
+Prince William,Juvenile Court Services Unit,"$827,501",2016,Governing
+Prince William,Juvenile Court Services Unit,"$838,933",2017,Governing
+Prince William,Juvenile Court Services Unit,"$864,101",2018,Governing
+Prince William,Juvenile Court Services Unit,"$934,604",2019,Governing
+Prince William,Law Library,147638,2015,Education
+Prince William,Law Library,"$91,955",2016,Education
+Prince William,Law Library,"$106,728",2017,Education
+Prince William,Law Library,"$118,452",2018,Education
+Prince William,Law Library,$0,2019,Education
+Prince William,Magistrates,254866,2015,Governing
+Prince William,Magistrates,"$127,902",2016,Governing
+Prince William,Magistrates,"$125,654",2017,Governing
+Prince William,Magistrates,"$133,448",2018,Governing
+Prince William,Magistrates,"$115,667",2019,Governing
+Prince William,Police,89556296,2015,Public Safety
+Prince William,Police,"$94,411,511",2016,Public Safety
+Prince William,Police,"$96,868,104",2017,Public Safety
+Prince William,Police,"$101,338,792",2018,Public Safety
+Prince William,Police,"$107,412,482",2019,Public Safety
+Prince William,Public Safety Communications,9401319,2015,Public Safety
+Prince William,Public Safety Communications,"$11,700,844",2016,Public Safety
+Prince William,Public Safety Communications,"$10,125,469",2017,Public Safety
+Prince William,Public Safety Communications,"$10,981,058",2018,Public Safety
+Prince William,Public Safety Communications,"$11,210,096",2019,Public Safety
+Prince William,Sheriff,9402282,2015,Public Safety
+Prince William,Sheriff,"$9,619,646",2016,Public Safety
+Prince William,Sheriff,"$10,034,237",2017,Public Safety
+Prince William,Sheriff,"$10,575,982",2018,Public Safety
+Prince William,Sheriff,"$10,918,424",2019,Public Safety
+Prince William,Transfer to Adult Detention Center,26822342,2015,Social Services
+Prince William,Transfer to Adult Detention Center,"$28,002,921",2016,Social Services
+Prince William,Transfer to Adult Detention Center,"$26,838,103",2017,Social Services
+Prince William,Transfer to Adult Detention Center,"$27,750,277",2018,Social Services
+Prince William,Transfer to Adult Detention Center,"$32,112,225",2019,Social Services
+Prince William,Debt Service,53588665,2015,Finance
+Prince William,Debt Service,"$50,099,963",2016,Finance
+Prince William,Debt Service,"$56,748,277",2017,Finance
+Prince William,Debt Service,"$56,131,838",2018,Finance
+Prince William,Debt Service,"$54,152,176",2019,Finance
+Prince William,Transfer to General Fund,66648451,2015,Finance
+Prince William,Transfer to General Fund,"$67,632,167",2016,Finance
+Prince William,Transfer to General Fund,"$2,071,452",2017,Finance
+Prince William,Transfer to General Fund,$0,2018,Finance
+Prince William,Transfer to General Fund,$0,2019,Finance
+Prince William,Transfer to Law Library,0,2015,Education
+Prince William,Transfer to Law Library,$0,2016,Education
+Prince William,Transfer to Law Library,"$16,744",2017,Education
+Prince William,Transfer to Law Library,"$10,229",2018,Education
+Prince William,Transfer to Law Library,"$10,229",2019,Education
+Prince William,Transfer to Aging,0,2015,Social Services
+Prince William,Transfer to Aging,$0,2016,Social Services
+Prince William,Transfer to Aging,$0,2017,Social Services
+Prince William,Transfer to Aging,"$30,000",2018,Social Services
+Prince William,Transfer to Aging,$0,2019,Social Services
+Prince William,Transfer to F&R Systemwide Initiatives,3528643,2015,Other
+Prince William,Transfer to F&R Systemwide Initiatives,"$3,523,967",2016,Other
+Prince William,Transfer to F&R Systemwide Initiatives,$0,2017,Other
+Prince William,Transfer to F&R Systemwide Initiatives,$0,2018,Other
+Prince William,Transfer to F&R Systemwide Initiatives,$0,2019,Other
+Prince William,Transfer to Site Development Review & Inspection,0,2015,Community Development
+Prince William,Transfer to Site Development Review & Inspection,$0,2016,Community Development
+Prince William,Transfer to Site Development Review & Inspection,"$1,614,916",2017,Community Development
+Prince William,Transfer to Site Development Review & Inspection,"$1,615,186",2018,Community Development
+Prince William,Transfer to Site Development Review & Inspection,"$1,615,186",2019,Community Development
+Prince William,Transfer to Building Development,0,2015,Community Development
+Prince William,Transfer to Building Development,$0,2016,Community Development
+Prince William,Transfer to Building Development,"$1,940,295",2017,Community Development
+Prince William,Transfer to Building Development,"$2,010,428",2018,Community Development
+Prince William,Transfer to Building Development,"$2,303,625",2019,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,31811,2015,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,"$11,414",2016,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,$0,2017,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,$0,2018,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,$0,2019,Community Development
+Prince William,Transfer to Housing Trust Contribution,0,2015,Community Development
+Prince William,Transfer to Housing Trust Contribution,$0,2016,Community Development
+Prince William,Transfer to Housing Trust Contribution,"$11,414",2017,Community Development
+Prince William,Transfer to Housing Trust Contribution,"$11,414",2018,Community Development
+Prince William,Transfer to Housing Trust Contribution,"$84,602",2019,Community Development
+Prince William,Transfer to Transportation,0,2015,Community Development
+Prince William,Transfer to Transportation,$0,2016,Community Development
+Prince William,Transfer to Transportation,$0,2017,Community Development
+Prince William,Transfer to Transportation,$0,2018,Community Development
+Prince William,Transfer to Transportation,"$1,575,000",2019,Community Development
+Prince William,Transfer to All Other Projects,3243681,2015,Other
+Prince William,Transfer to All Other Projects,"$9,067,501",2016,Other
+Prince William,Transfer to All Other Projects,"$14,032,000",2017,Other
+Prince William,Transfer to All Other Projects,$0,2018,Other
+Prince William,Transfer to All Other Projects,"$2,850,000",2019,Other
+Prince William,Transfer to Innovation,0,2015,Community Development
+Prince William,Transfer to Innovation,$0,2016,Community Development
+Prince William,Transfer to Innovation,"$35,000",2017,Community Development
+Prince William,Transfer to Innovation,"$35,000",2018,Community Development
+Prince William,Transfer to Innovation,"$35,000",2019,Community Development
+Prince William,Transfer to Parks Enterprise Fund,35000,2015,Community Development
+Prince William,Transfer to Parks Enterprise Fund,"$1,176,738",2016,Community Development
+Prince William,Transfer to Parks Enterprise Fund,"$225,000",2017,Community Development
+Prince William,Transfer to Parks Enterprise Fund,"$580,463",2018,Community Development
+Prince William,Transfer to Parks Enterprise Fund,"$762,622",2019,Community Development
+Prince William,Transfer to DoIT Capital Replacement,1710000,2015,Social Services
+Prince William,Transfer to DoIT Capital Replacement,"$725,195",2016,Social Services
+Prince William,Transfer to DoIT Capital Replacement,$0,2017,Social Services
+Prince William,Transfer to DoIT Capital Replacement,$0,2018,Social Services
+Prince William,Transfer to DoIT Capital Replacement,$0,2019,Social Services
+Prince William,Class Size Reduction Grant,0,2015,Education
+Prince William,Class Size Reduction Grant,"$1,000,000",2016,Education
+Prince William,Class Size Reduction Grant,"$1,000,000",2017,Education
+Prince William,Class Size Reduction Grant,"$1,000,000",2018,Education
+Prince William,Class Size Reduction Grant,"$1,000,000",2019,Education
+Prince William,Debt Service for 13th High School,0,2015,Finance
+Prince William,Debt Service for 13th High School,$0,2016,Finance
+Prince William,Debt Service for 13th High School,$0,2017,Finance
+Prince William,Debt Service for 13th High School,"$907,375",2018,Finance
+Prince William,Debt Service for 13th High School,"$888,694",2019,Finance
+Prince William,Unclassified Administrative,22050319,2015,Other
+Prince William,Unclassified Administrative,"$22,003,878",2016,Other
+Prince William,Unclassified Administrative,"$38,428,857",2017,Other
+Prince William,Unclassified Administrative,"$6,904,598",2018,Other
+Prince William,Unclassified Administrative,"$10,197,620",2019,Other
+Prince William,Contingency Reserve,305000,2015,Finance
+Prince William,Contingency Reserve,"$50,000",2016,Finance
+Prince William,Contingency Reserve,"$10,000",2017,Finance
+Prince William,Contingency Reserve,"$2,075,000",2018,Finance
+Prince William,Contingency Reserve,"$544,429",2019,Finance
+Prince William,Countywide Insurance Programs,733774,2015,Finance
+Prince William,Countywide Insurance Programs,"$748,766",2016,Finance
+Prince William,Countywide Insurance Programs,"$827,002",2017,Finance
+Prince William,Countywide Insurance Programs,"$7,006,606",2018,Finance
+Prince William,Countywide Insurance Programs,"$7,241,490",2019,Finance
+Prince William,Unemployment Insurance,124969,2015,Finance
+Prince William,Unemployment Insurance,"$67,397",2016,Finance
+Prince William,Unemployment Insurance,"$78,514",2017,Finance
+Prince William,Unemployment Insurance,"$125,000",2018,Finance
+Prince William,Unemployment Insurance,"$125,000",2019,Finance
+Prince William,Community Development Authority,0,2015,Community Development
+Prince William,Community Development Authority,"$1,229,479",2016,Community Development
+Prince William,Community Development Authority,"$2,592,701",2017,Community Development
+Prince William,Community Development Authority,"$2,854,623",2018,Community Development
+Prince William,Community Development Authority,"$2,917,000",2019,Community Development
+Prince William,Development Services,21747645,2015,Community Development
+Prince William,Development Services,"$25,068,097",2016,Community Development
+Prince William,Development Services,"$21,160,269",2017,Community Development
+Prince William,Development Services,"$23,939,240",2018,Community Development
+Prince William,Development Services,"$24,809,509",2019,Community Development
+Prince William,Emergency Medical Service Fee,4714546,2015,Finance
+Prince William,Emergency Medical Service Fee,"$4,924,974",2016,Finance
+Prince William,Emergency Medical Service Fee,"$4,982,593",2017,Finance
+Prince William,Emergency Medical Service Fee,"$5,382,742",2018,Finance
+Prince William,Emergency Medical Service Fee,"$5,377,410",2019,Finance
+Prince William,Housing & Community Development,33967616,2015,Community Development
+Prince William,Housing & Community Development,"$31,518,296",2016,Community Development
+Prince William,Housing & Community Development,"$31,836,380",2017,Community Development
+Prince William,Housing & Community Development,"$35,850,561",2018,Community Development
+Prince William,Housing & Community Development,"$43,164,642",2019,Community Development
+Prince William,Fire & Rescue Levy,35273185,2015,Public Safety
+Prince William,Fire & Rescue Levy,"$39,319,661",2016,Public Safety
+Prince William,Fire & Rescue Levy,"$48,879,522",2017,Public Safety
+Prince William,Fire & Rescue Levy,"$59,509,485",2018,Public Safety
+Prince William,Fire & Rescue Levy,"$64,797,722",2019,Public Safety
+Prince William,Mosquito & Forest Pest Management,1417367,2015,Community Development
+Prince William,Mosquito & Forest Pest Management,"$1,431,993",2016,Community Development
+Prince William,Mosquito & Forest Pest Management,"$1,448,821",2017,Community Development
+Prince William,Mosquito & Forest Pest Management,"$1,900,067",2018,Community Development
+Prince William,Mosquito & Forest Pest Management,"$1,855,340",2019,Community Development
+Prince William,Stormwater Management,6793576,2015,Community Development
+Prince William,Stormwater Management,"$7,528,817",2016,Community Development
+Prince William,Stormwater Management,"$7,998,036",2017,Community Development
+Prince William,Stormwater Management,"$11,478,851",2018,Community Development
+Prince William,Stormwater Management,"$8,861,562",2019,Community Development
+Prince William,Transportation/Service Districts,2660304,2015,Community Development
+Prince William,Transportation/Service Districts,"$486,916",2016,Community Development
+Prince William,Transportation/Service Districts,"$735,635",2017,Community Development
+Prince William,Transportation/Service Districts,"$689,511",2018,Community Development
+Prince William,Transportation/Service Districts,"$833,011",2019,Community Development
+Prince William,Capital Project Funds,106259732,2015,Finance
+Prince William,Capital Project Funds,"$120,431,410",2016,Finance
+Prince William,Capital Project Funds,"$103,966,718",2017,Finance
+Prince William,Capital Project Funds,"$24,631,197",2018,Finance
+Prince William,Capital Project Funds,"$24,501,696",2019,Finance
+Prince William,Innovation Business Park,715227,2015,Community Development
+Prince William,Innovation Business Park,"$331,228",2016,Community Development
+Prince William,Innovation Business Park,"$1,939,516",2017,Community Development
+Prince William,Innovation Business Park,"$195,000",2018,Community Development
+Prince William,Innovation Business Park,"$195,000",2019,Community Development
+Prince William,Parks & Recreation,6085189,2015,Community Development
+Prince William,Parks & Recreation,"$6,419,977",2016,Community Development
+Prince William,Parks & Recreation,"$6,556,941",2017,Community Development
+Prince William,Parks & Recreation,"$6,791,075",2018,Community Development
+Prince William,Parks & Recreation,"$6,969,451",2019,Community Development
+Prince William,Solid Waste,19256939,2015,Community Development
+Prince William,Solid Waste,"$19,514,397",2016,Community Development
+Prince William,Solid Waste,"$19,284,757",2017,Community Development
+Prince William,Solid Waste,"$28,928,268",2018,Community Development
+Prince William,Solid Waste,"$19,923,809",2019,Community Development
+Prince William,Information Technology,22256652,2015,Social Services
+Prince William,Information Technology,"$26,500,158",2016,Social Services
+Prince William,Information Technology,"$30,296,970",2017,Social Services
+Prince William,Information Technology,"$31,510,388",2018,Social Services
+Prince William,Information Technology,"$31,812,928",2019,Social Services
+Prince William,Public Works Construction Crew,1599435,2015,Community Development
+Prince William,Public Works Construction Crew,"$2,713,579",2016,Community Development
+Prince William,Public Works Construction Crew,"$2,509,070",2017,Community Development
+Prince William,Public Works Construction Crew,"$1,880,890",2018,Community Development
+Prince William,Public Works Construction Crew,"$2,089,249",2019,Community Development
+Prince William,Public Works Fleet Management,7418474,2015,Community Development
+Prince William,Public Works Fleet Management,"$7,060,488",2016,Community Development
+Prince William,Public Works Fleet Management,"$7,145,115",2017,Community Development
+Prince William,Public Works Fleet Management,"$8,556,532",2018,Community Development
+Prince William,Public Works Fleet Management,"$8,017,646",2019,Community Development
+Prince William,Medical Insurance,49390676,2015,Finance
+Prince William,Medical Insurance,"$52,171,443",2016,Finance
+Prince William,Medical Insurance,"$55,360,887",2017,Finance
+Prince William,Medical Insurance,"$75,977,000",2018,Finance
+Prince William,Medical Insurance,"$80,230,000",2019,Finance
+Prince William,Other Self Insurance,0,2015,Finance
+Prince William,Other Self Insurance,"$28,057",2016,Finance
+Prince William,Other Self Insurance,$0,2017,Finance
+Prince William,Other Self Insurance,$0,2018,Finance
+Prince William,Other Self Insurance,$0,2019,Finance
+Prince William,Casualty Pool/Worker's Compensation,5719323,2015,Finance
+Prince William,Casualty Pool/Worker's Compensation,"$8,027,733",2016,Finance
+Prince William,Casualty Pool/Worker's Compensation,"$9,743,062",2017,Finance
+Prince William,Casualty Pool/Worker's Compensation,$0,2018,Finance
+Prince William,Casualty Pool/Worker's Compensation,$0,2019,Finance
+Prince William,Commonwealth Credit,463294,2015,Finance
+Prince William,Commonwealth Credit,"$453,593",2016,Finance
+Prince William,Commonwealth Credit,"$486,108",2017,Finance
+Prince William,Commonwealth Credit,"$500,000",2018,Finance
+Prince William,Commonwealth Credit,"$500,000",2019,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,1316688,2015,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,"$1,470,370",2016,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,"$1,576,183",2017,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,"$1,400,000",2018,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,"$1,400,000",2019,Finance
+Prince William,Library Trust,118933,2015,Education
+Prince William,Library Trust,"$152,493",2016,Education
+Prince William,Library Trust,"$140,996",2017,Education
+Prince William,Library Trust,$0,2018,Education
+Prince William,Library Trust,$0,2019,Education
+Prince William,Innovation Owners Association,92726,2015,Community Development
+Prince William,Innovation Owners Association,"$115,224",2016,Community Development
+Prince William,Innovation Owners Association,"$120,181",2017,Community Development
+Prince William,Innovation Owners Association,$0,2018,Community Development
+Prince William,Innovation Owners Association,$0,2019,Community Development
+Prince William,Police Donations/Animal Friendly License Plates,5610,2015,Other
+Prince William,Police Donations/Animal Friendly License Plates,"$8,390",2016,Other
+Prince William,Police Donations/Animal Friendly License Plates,"$49,579",2017,Other
+Prince William,Police Donations/Animal Friendly License Plates,"$9,500",2018,Other
+Prince William,Police Donations/Animal Friendly License Plates,"$9,500",2019,Other
+Prince William,Historic Preservation Foundation,30091,2015,Community Development
+Prince William,Historic Preservation Foundation,$28,2016,Community Development
+Prince William,Historic Preservation Foundation,$0,2017,Community Development
+Prince William,Historic Preservation Foundation,$0,2018,Community Development
+Prince William,Historic Preservation Foundation,$0,2019,Community Development
+Prince William,Other Post Employment Benefits (OPEB),3727666,2015,Finance
+Prince William,Other Post Employment Benefits (OPEB),"$4,412,358",2016,Finance
+Prince William,Other Post Employment Benefits (OPEB),"$3,877,189",2017,Finance
+Prince William,Other Post Employment Benefits (OPEB),$0,2018,Finance
+Prince William,Other Post Employment Benefits (OPEB),$0,2019,Finance
+Prince William,Police & Fire Supplemental Retirement,2104378,2015,Public Safety
+Prince William,Police & Fire Supplemental Retirement,"$2,308,676",2016,Public Safety
+Prince William,Police & Fire Supplemental Retirement,"$2,739,881",2017,Public Safety
+Prince William,Police & Fire Supplemental Retirement,$0,2018,Public Safety
+Prince William,Police & Fire Supplemental Retirement,$0,2019,Public Safety
+Prince William,Length of Service Award Program (LOSAP),399802,2015,Other
+Prince William,Length of Service Award Program (LOSAP),"$407,490",2016,Other
+Prince William,Length of Service Award Program (LOSAP),"$467,388",2017,Other
+Prince William,Length of Service Award Program (LOSAP),$0,2018,Other
+Prince William,Length of Service Award Program (LOSAP),$0,2019,Other
+Prince William,Adult Detention Center,42468351,2015,Social Services
+Prince William,Adult Detention Center,"$43,224,303",2016,Social Services
+Prince William,Adult Detention Center,"$42,719,861",2017,Social Services
+Prince William,Adult Detention Center,"$42,771,596",2018,Social Services
+Prince William,Adult Detention Center,"$48,220,832",2019,Social Services
+Prince William,Operating Fund,906217008,2015,Finance
+Prince William,Operating Fund,"$927,284,048",2016,Finance
+Prince William,Operating Fund,"$941,862,727",2017,Finance
+Prince William,Operating Fund,"$1,042,779,115",2018,Finance
+Prince William,Operating Fund,"$1,084,774,103",2019,Finance
+Prince William,School Debt Service Fund,77277706,2015,Finance
+Prince William,School Debt Service Fund,"$84,523,659",2016,Finance
+Prince William,School Debt Service Fund,"$89,224,373",2017,Finance
+Prince William,School Debt Service Fund,"$101,045,974",2018,Finance
+Prince William,School Debt Service Fund,"$107,730,113",2019,Finance
+Prince William,Construction Fund,128684169,2015,Community Development
+Prince William,Construction Fund,"$135,947,829",2016,Community Development
+Prince William,Construction Fund,"$165,677,017",2017,Community Development
+Prince William,Construction Fund,"$316,772,454",2018,Community Development
+Prince William,Construction Fund,"$87,874,962",2019,Community Development
+Prince William,Food Service Fund,40108089,2015,Community Development
+Prince William,Food Service Fund,"$40,952,508",2016,Community Development
+Prince William,Food Service Fund,"$41,836,973",2017,Community Development
+Prince William,Food Service Fund,"$51,285,609",2018,Community Development
+Prince William,Food Service Fund,"$52,277,451",2019,Community Development
+Prince William,Warehouse Fund,4530119,2015,Community Development
+Prince William,Warehouse Fund,"$36,384",2016,Community Development
+Prince William,Warehouse Fund,"$67,214",2017,Community Development
+Prince William,Warehouse Fund,"$5,000,000",2018,Community Development
+Prince William,Warehouse Fund,"$5,000,000",2019,Community Development
+Prince William,Facilities Use Fund,1342208,2015,Community Development
+Prince William,Facilities Use Fund,"$1,425,097",2016,Community Development
+Prince William,Facilities Use Fund,"$1,506,005",2017,Community Development
+Prince William,Facilities Use Fund,"$1,402,130",2018,Community Development
+Prince William,Facilities Use Fund,"$1,699,392",2019,Community Development
+Prince William,Self Insurance Fund,4610286,2015,Finance
+Prince William,Self Insurance Fund,"$4,036,564",2016,Finance
+Prince William,Self Insurance Fund,"$5,049,723",2017,Finance
+Prince William,Self Insurance Fund,"$5,367,639",2018,Finance
+Prince William,Self Insurance Fund,"$5,506,132",2019,Finance
+Prince William,Health Insurance Fund,86694039,2015,Finance
+Prince William,Health Insurance Fund,"$90,684,104",2016,Finance
+Prince William,Health Insurance Fund,"$71,425,147",2017,Finance
+Prince William,Health Insurance Fund,"$99,157,018",2018,Finance
+Prince William,Health Insurance Fund,"$109,530,239",2019,Finance
+Prince William,Regional School Fund,44992089,2015,Education
+Prince William,Regional School Fund,"$7,285,944",2016,Education
+Prince William,Regional School Fund,"$6,646,055",2017,Education
+Prince William,Regional School Fund,"$51,308,693",2018,Education
+Prince William,Regional School Fund,"$51,308,693",2019,Education
+Prince William,Governor's School at Innovation Park,796927,2015,Education
+Prince William,Governor's School at Innovation Park,"$1,203,345",2016,Education
+Prince William,Governor's School at Innovation Park,"$1,142,529",2017,Education
+Prince William,Governor's School at Innovation Park,"$968,357",2018,Education
+Prince William,Governor's School at Innovation Park,"$994,340",2019,Education
+Prince William,School Age Child Care (SACC) Program Fund,590111,2015,Education
+Prince William,School Age Child Care (SACC) Program Fund,"$650,718",2016,Education
+Prince William,School Age Child Care (SACC) Program Fund,"$747,176",2017,Education
+Prince William,School Age Child Care (SACC) Program Fund,"$630,000",2018,Education
+Prince William,School Age Child Care (SACC) Program Fund,"$630,000",2019,Education
+Prince William,School Aquatic Center,0,2015,Education
+Prince William,School Aquatic Center,$0,2016,Education
+Prince William,School Aquatic Center,$0,2017,Education
+Prince William,School Aquatic Center,"$978,562",2018,Education
+Prince William,School Aquatic Center,"$1,281,541",2019,Education
+Prince William,Imaging Center Fund,0,2015,Other
+Prince William,Imaging Center Fund,$0,2016,Other
+Prince William,Imaging Center Fund,$0,2017,Other
+Prince William,Imaging Center Fund,$0,2018,Other
+Prince William,Imaging Center Fund,"$609,286",2019,Other
+Prince William,Economic Development,3274708,2020,Community Development
+Prince William,Library,17682718,2020,Education
+Prince William,"Parks, Recreation & Tourism",33764172,2020,Community Development
+Prince William,Planning,3990302,2020,Community Development
+Prince William,Public Works,33623223,2020,Community Development
+Prince William,Transportation,2934612,2020,Community Development
+Prince William,Board of County Supervisors,4789263,2020,Governing
+Prince William,Audit Services,0,2020,Governing
+Prince William,County Attorney,4014552,2020,Governing
+Prince William,Elections,2633866,2020,Governing
+Prince William,Executive Management,4562651,2020,Governing
+Prince William,Finance,21756920,2020,Finance
+Prince William,Human Resources,3613581,2020,Social Services
+Prince William,Human Rights Office,771456,2020,Social Services
+Prince William,Management & Budget,1586473,2020,Finance
+Prince William,Area Agency on Aging,6783652,2020,Social Services
+Prince William,Public Health,3402843,2020,Social Services
+Prince William,Social Services,57210598,2020,Social Services
+Prince William,Virginia Cooperative Extension,927709,2020,Education
+Prince William,Community Services,47233484,2020,Community Development
+Prince William,Adult Detention Center,0,2020,Social Services
+Prince William,Circuit Court Judges,1158437,2020,Governing
+Prince William,Clerk of the Court,4285254,2020,Governing
+Prince William,Commonwealth's Attorney,6618588,2020,Governing
+Prince William,Criminal Justice Services,4533887,2020,Governing
+Prince William,Fire & Rescue,102275686,2020,Public Safety
+Prince William,General District Court,680915,2020,Governing
+Prince William,Juvenile & Domestic Relations Court,420361,2020,Governing
+Prince William,Juvenile Court Services Unit,1011941,2020,Governing
+Prince William,Law Library,0,2020,Education
+Prince William,Magistrates,115667,2020,Governing
+Prince William,Police,114162168,2020,Public Safety
+Prince William,Public Safety Communications,11741791,2020,Public Safety
+Prince William,Sheriff,11862276,2020,Public Safety
+Prince William,Transfer to Adult Detention Center,33565839,2020,Social Services
+Prince William,Debt Service,49636205,2020,Finance
+Prince William,Transfer to General Fund & Capital Reserve,0,2020,Finance
+Prince William,Transfer to Law Library,32229,2020,Education
+Prince William,Transfer to Aging,0,2020,Social Services
+Prince William,Transfer to F&R Systemwide Initiatives,0,2020,Other
+Prince William,Transfer to Site Development Review & Inspection,1707160,2020,Community Development
+Prince William,Transfer to Building Development,2102401,2020,Community Development
+Prince William,Transfer to Housing Choice Voucher Program,0,2020,Community Development
+Prince William,Transfer to Housing Trust Contribution,84602,2020,Community Development
+Prince William,Transfer to Transportation,1575000,2020,Community Development
+Prince William,Transfer to All Other Projects,10850000,2020,Other
+Prince William,Transfer to Innovation,35000,2020,Community Development
+Prince William,Transfer to Parks Enterprise Fund,757422,2020,Community Development
+Prince William,Transfer to DoIT Capital Replacement,0,2020,Social Services
+Prince William,Class Size Reduction Grant,1000000,2020,Education
+Prince William,Debt Service for 13th High School,870013,2020,Finance
+Prince William,Unclassified Administrative,7703372,2020,Other
+Prince William,Contingency Reserve,688917,2020,Finance
+Prince William,Countywide Insurance Programs,7741490,2020,Finance
+Prince William,Unemployment Insurance,125000,2020,Finance
+Prince William,Animal Shelter Donations & License Plates,0,2020,Other
+Prince William,Community Development Authority,2971000,2020,Community Development
+Prince William,Development Services,25403557,2020,Community Development
+Prince William,Emergency Medical Service Fee,5433650,2020,Finance
+Prince William,Housing & Community Development,43090057,2020,Community Development
+Prince William,Fire & Rescue Levy,58174404,2020,Public Safety
+Prince William,Mosquito & Forest Pest Management,1628540,2020,Community Development
+Prince William,Stormwater Management,9228138,2020,Community Development
+Prince William,Additional TOT 2% (formerly NVTA Taxes),1400000,2020,Finance
+Prince William,Transportation/Service Districts,864817,2020,Community Development
+Prince William,"
+Capital Project Funds",31868082,2020,Finance
+Prince William,Innovation Business Park,195000,2020,Community Development
+Prince William,Parks & Recreation,6938469,2020,Community Development
+Prince William,Solid Waste,21159085,2020,Community Development
+Prince William,Information Technology,40059446,2020,Social Services
+Prince William,Public Works Construction Crew,1988454,2020,Community Development
+Prince William,Public Works Fleet Management,9528998,2020,Community Development
+Prince William,Medical Insurance,78932000,2020,Finance
+Prince William,Other Self Insurance,0,2020,Finance
+Prince William,Casualty Pool/Worker's Compensation,0,2020,Finance
+Prince William,"Agency Funds (Welfare, Housing & CSB)",0,2020,Public Safety
+Prince William,Commonwealth Credit,500000,2020,Finance
+Prince William,NVTA - 2% Transient Occupancy Tax,0,2020,Finance
+Prince William,Library Trust,0,2020,Education
+Prince William,Innovation Owners Association,0,2020,Community Development
+Prince William,Police Donations/Animal Friendly License Plates,9500,2020,Other
+Prince William,Historic Preservation Foundation,0,2020,Community Development
+Prince William,Other Post Employment Benefits (OPEB),0,2020,Finance
+Prince William,Police & Fire Supplemental Retirement,0,2020,Public Safety
+Prince William,Length of Service Award Program (LOSAP),0,2020,Other
+Prince William,"
+Adult Detention Center",67205846,2020,Social Services
+Prince William,Operating Fund,1134421452,2020,Finance
+Prince William,School Debt Service Fund,106159888,2020,Finance
+Prince William,Construction Fund,87039323,2020,Community Development
+Prince William,Food Service Fund,51595000,2020,Community Development
+Prince William,Warehouse Fund,5000000,2020,Community Development
+Prince William,Facilities Use Fund,1755200,2020,Community Development
+Prince William,Self Insurance Fund,5627478,2020,Finance
+Prince William,Health Insurance Fund,110153121,2020,Finance
+Prince William,Regional School Fund,46813026,2020,Education
+Prince William,Governor's School at Innovation Park,1004340,2020,Education
+Prince William,School Age Child Care (SACC) Program Fund,550000,2020,Education
+Prince William,School Aquatic Center,1314906,2020,Education
+Prince William,Imaging Center Fund,635516,2020,Other
+Arlington,Arlington Economic Development (AED),10829236,2014,Community Development
+Arlington,Arlington Economic Development (AED),11085839,2015,Community Development
+Arlington,Arlington Economic Development (AED),10522630,2016,Community Development
+Arlington,Arlington Economic Development (AED),8524531,2017,Community Development
+Arlington,Arlington Economic Development (AED),8401169,2018,Community Development
+Arlington,Arlington Economic Development (AED),8788089,2019,Community Development
+Arlington,Arlington Economic Development (AED),8511765,2020,Community Development
+Arlington,Arlington Economic Development (AED),3897536,2021,Community Development
+Arlington,Circuit Court Judiciary (CCTJ),579570,2014,Governing
+Arlington,Circuit Court Judiciary (CCTJ),703358,2015,Governing
+Arlington,Circuit Court Judiciary (CCTJ),977960,2016,Governing
+Arlington,Circuit Court Judiciary (CCTJ),1052604,2017,Governing
+Arlington,Circuit Court Judiciary (CCTJ),1168331,2018,Governing
+Arlington,Circuit Court Judiciary (CCTJ),1183285,2019,Governing
+Arlington,Circuit Court Judiciary (CCTJ),1189132,2020,Governing
+Arlington,Circuit Court Judiciary (CCTJ),595939,2021,Governing
+Arlington,Clerk of the Circuit Court (CCT),2871158,2014,Governing
+Arlington,Clerk of the Circuit Court (CCT),3129404,2015,Governing
+Arlington,Clerk of the Circuit Court (CCT),3166978,2016,Governing
+Arlington,Clerk of the Circuit Court (CCT),3194744,2017,Governing
+Arlington,Clerk of the Circuit Court (CCT),3176537,2018,Governing
+Arlington,Clerk of the Circuit Court (CCT),3295794,2019,Governing
+Arlington,Clerk of the Circuit Court (CCT),3301258,2020,Governing
+Arlington,Clerk of the Circuit Court (CCT),1736733,2021,Governing
+Arlington,Commissioner of Revenue (COR),4994779,2014,Governing
+Arlington,Commissioner of Revenue (COR),5176362,2015,Governing
+Arlington,Commissioner of Revenue (COR),5409558,2016,Governing
+Arlington,Commissioner of Revenue (COR),5457960,2017,Governing
+Arlington,Commissioner of Revenue (COR),5902471,2018,Governing
+Arlington,Commissioner of Revenue (COR),5964215,2019,Governing
+Arlington,Commissioner of Revenue (COR),5903371,2020,Governing
+Arlington,Commissioner of Revenue (COR),2691611,2021,Governing
+Arlington,Commonwealth's Attorney (CWA),3981380,2014,Governing
+Arlington,Commonwealth's Attorney (CWA),4214727,2015,Governing
+Arlington,Commonwealth's Attorney (CWA),4152655,2016,Governing
+Arlington,Commonwealth's Attorney (CWA),4049552,2017,Governing
+Arlington,Commonwealth's Attorney (CWA),4166828,2018,Governing
+Arlington,Commonwealth's Attorney (CWA),4257707,2019,Governing
+Arlington,Commonwealth's Attorney (CWA),4685745,2020,Governing
+Arlington,Commonwealth's Attorney (CWA),1984378,2021,Governing
+Arlington,"Community Planning, Housing & Development (CPHD)",10377073,2014,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",11116188,2015,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",11051427,2016,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",10978461,2017,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",10981228,2018,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",10684954,2019,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",10823249,2020,Community Development
+Arlington,"Community Planning, Housing & Development (CPHD)",5103865,2021,Community Development
+Arlington,County Attorney (CAO),2653243,2014,Governing
+Arlington,County Attorney (CAO),2542357,2015,Governing
+Arlington,County Attorney (CAO),2766821,2016,Governing
+Arlington,County Attorney (CAO),3141596,2017,Governing
+Arlington,County Attorney (CAO),2989682,2018,Governing
+Arlington,County Attorney (CAO),3044995,2019,Governing
+Arlington,County Attorney (CAO),3025692,2020,Governing
+Arlington,County Attorney (CAO),1492721,2021,Governing
+Arlington,County Board (CBO),"$ 1,078,257",2014,Governing
+Arlington,County Board (CBO),"$ 1,234,996",2015,Governing
+Arlington,County Board (CBO),"$ 1,326,700",2016,Governing
+Arlington,County Board (CBO),"$ 1,405,569",2017,Governing
+Arlington,County Board (CBO),"$ 1,737,286",2018,Governing
+Arlington,County Board (CBO),"$ 1,632,038",2019,Governing
+Arlington,County Board (CBO),"$ 1,617,157",2020,Governing
+Arlington,County Board (CBO),"$ 771,143",2021,Governing
+Arlington,County Manager's Office (CMO),5191702,2014,Governing
+Arlington,County Manager's Office (CMO),5287208,2015,Governing
+Arlington,County Manager's Office (CMO),5578989,2016,Governing
+Arlington,County Manager's Office (CMO),5425724,2017,Governing
+Arlington,County Manager's Office (CMO),5282244,2018,Governing
+Arlington,County Manager's Office (CMO),5335137,2019,Governing
+Arlington,County Manager's Office (CMO),5037376,2020,Governing
+Arlington,County Manager's Office (CMO),2304625,2021,Governing
+Arlington,Environmental Services (DES),80533785,2014,Community Development
+Arlington,Environmental Services (DES),85161962,2015,Community Development
+Arlington,Environmental Services (DES),90929047,2016,Community Development
+Arlington,Environmental Services (DES),93100334,2017,Community Development
+Arlington,Environmental Services (DES),95405366,2018,Community Development
+Arlington,Environmental Services (DES),94453744,2019,Community Development
+Arlington,Environmental Services (DES),96197296,2020,Community Development
+Arlington,Environmental Services (DES),37958045,2021,Community Development
+Arlington,Fire Department (FIR),52274199,2014,Public Safety
+Arlington,Fire Department (FIR),53389709,2015,Public Safety
+Arlington,Fire Department (FIR),56348894,2016,Public Safety
+Arlington,Fire Department (FIR),58034572,2017,Public Safety
+Arlington,Fire Department (FIR),58874086,2018,Public Safety
+Arlington,Fire Department (FIR),62821768,2019,Public Safety
+Arlington,Fire Department (FIR),65031969,2020,Public Safety
+Arlington,Fire Department (FIR),25176855,2021,Public Safety
+Arlington,General District Court (GDC),364869,2014,Governing
+Arlington,General District Court (GDC),352577,2015,Governing
+Arlington,General District Court (GDC),345061,2016,Governing
+Arlington,General District Court (GDC),332851,2017,Governing
+Arlington,General District Court (GDC),360684,2018,Governing
+Arlington,General District Court (GDC),352711,2019,Governing
+Arlington,General District Court (GDC),356710,2020,Governing
+Arlington,General District Court (GDC),164242,2021,Governing
+Arlington,Human Resources (HRD),7908723,2014,Social Services
+Arlington,Human Resources (HRD),8353836,2015,Social Services
+Arlington,Human Resources (HRD),8783654,2016,Social Services
+Arlington,Human Resources (HRD),8919460,2017,Social Services
+Arlington,Human Resources (HRD),9185349,2018,Social Services
+Arlington,Human Resources (HRD),9324435,2019,Social Services
+Arlington,Human Resources (HRD),9586373,2020,Social Services
+Arlington,Human Resources (HRD),4255917,2021,Social Services
+Arlington,Human Services (DHS),117358298,2014,Social Services
+Arlington,Human Services (DHS),122965470,2015,Social Services
+Arlington,Human Services (DHS),127949353,2016,Social Services
+Arlington,Human Services (DHS),134525749,2017,Social Services
+Arlington,Human Services (DHS),136105243,2018,Social Services
+Arlington,Human Services (DHS),135256946,2019,Social Services
+Arlington,Human Services (DHS),140082502,2020,Social Services
+Arlington,Human Services (DHS),66271860,2021,Social Services
+Arlington,Juvenile & Domestic Relations Court (JDR),5731030,2014,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),5994885,2015,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),6211080,2016,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),6003988,2017,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),6530317,2018,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),7030385,2019,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),6841346,2020,Governing
+Arlington,Juvenile & Domestic Relations Court (JDR),2882993,2021,Governing
+Arlington,Libraries (LIB),12493400,2014,Education
+Arlington,Libraries (LIB),13007081,2015,Education
+Arlington,Libraries (LIB),12999158,2016,Education
+Arlington,Libraries (LIB),13648924,2017,Education
+Arlington,Libraries (LIB),14465893,2018,Education
+Arlington,Libraries (LIB),14458512,2019,Education
+Arlington,Libraries (LIB),14333511,2020,Education
+Arlington,Libraries (LIB),5993342,2021,Education
+Arlington,Magistrate (MAG),41363,2014,Governing
+Arlington,Magistrate (MAG),42241,2015,Governing
+Arlington,Magistrate (MAG),39688,2016,Governing
+Arlington,Magistrate (MAG),39044,2017,Governing
+Arlington,Magistrate (MAG),38918,2018,Governing
+Arlington,Magistrate (MAG),25929,2019,Governing
+Arlington,Magistrate (MAG),26544,2020,Governing
+Arlington,Magistrate (MAG),13158,2021,Governing
+Arlington,Management and Finance (DMF),6018001,2014,Finance
+Arlington,Management and Finance (DMF),6780618,2015,Finance
+Arlington,Management and Finance (DMF),6480030,2016,Finance
+Arlington,Management and Finance (DMF),7428284,2017,Finance
+Arlington,Management and Finance (DMF),7724907,2018,Finance
+Arlington,Management and Finance (DMF),8004496,2019,Finance
+Arlington,Management and Finance (DMF),8507461,2020,Finance
+Arlington,Management and Finance (DMF),4031196,2021,Finance
+Arlington,Parks & Recreation (DPR),34273106,2014,Community Development
+Arlington,Parks & Recreation (DPR),35939966,2015,Community Development
+Arlington,Parks & Recreation (DPR),37974121,2016,Community Development
+Arlington,Parks & Recreation (DPR),40081828,2017,Community Development
+Arlington,Parks & Recreation (DPR),40416046,2018,Community Development
+Arlington,Parks & Recreation (DPR),41861015,2019,Community Development
+Arlington,Parks & Recreation (DPR),39058591,2020,Community Development
+Arlington,Parks & Recreation (DPR),14090959,2021,Community Development
+Arlington,Police Department (POL),60965129,2014,Public Safety
+Arlington,Police Department (POL),64188293,2015,Public Safety
+Arlington,Police Department (POL),65439095,2016,Public Safety
+Arlington,Police Department (POL),66040676,2017,Public Safety
+Arlington,Police Department (POL),66526840,2018,Public Safety
+Arlington,Police Department (POL),68703892,2019,Public Safety
+Arlington,Police Department (POL),69909865,2020,Public Safety
+Arlington,Police Department (POL),27839566,2021,Public Safety
+Arlington,Public Defender,0,2014,Governing
+Arlington,Public Defender,0,2015,Governing
+Arlington,Public Defender,81927,2016,Governing
+Arlington,Public Defender,157137,2017,Governing
+Arlington,Public Defender,149879,2018,Governing
+Arlington,Public Defender,163717,2019,Governing
+Arlington,Public Defender,171548,2020,Governing
+Arlington,Public Defender,79344,2021,Governing
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),10966169,2014,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),11242487,2015,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),11341831,2016,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),11662065,2017,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),12454771,2018,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),13252362,2019,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),14013398,2020,Public Safety
+Arlington,Public Safety Communications and Emergency Management (DPSCEM),6568258,2021,Public Safety
+Arlington,Sheriff (SRF),38526817,2014,Public Safety
+Arlington,Sheriff (SRF),41005297,2015,Public Safety
+Arlington,Sheriff (SRF),43702573,2016,Public Safety
+Arlington,Sheriff (SRF),44118172,2017,Public Safety
+Arlington,Sheriff (SRF),45919040,2018,Public Safety
+Arlington,Sheriff (SRF),47698889,2019,Public Safety
+Arlington,Sheriff (SRF),46968108,2020,Public Safety
+Arlington,Sheriff (SRF),21294023,2021,Public Safety
+Arlington,Technology Services (DTS),18319387,2014,Social Services
+Arlington,Technology Services (DTS),18875695,2015,Social Services
+Arlington,Technology Services (DTS),19805805,2016,Social Services
+Arlington,Technology Services (DTS),20459333,2017,Social Services
+Arlington,Technology Services (DTS),21686651,2018,Social Services
+Arlington,Technology Services (DTS),22028662,2019,Social Services
+Arlington,Technology Services (DTS),25714217,2020,Social Services
+Arlington,Technology Services (DTS),14521677,2021,Social Services
+Arlington,Treasurer (TRS),6423281,2014,Finance
+Arlington,Treasurer (TRS),6516237,2015,Finance
+Arlington,Treasurer (TRS),6820769,2016,Finance
+Arlington,Treasurer (TRS),6879063,2017,Finance
+Arlington,Treasurer (TRS),6914439,2018,Finance
+Arlington,Treasurer (TRS),7048516,2019,Finance
+Arlington,Treasurer (TRS),6494950,2020,Finance
+Arlington,Treasurer (TRS),3225065,2021,Finance
+Arlington,Voter Registration (REG),1020051,2014,Governing
+Arlington,Voter Registration (REG),960017,2015,Governing
+Arlington,Voter Registration (REG),1129861,2016,Governing
+Arlington,Voter Registration (REG),1479070,2017,Governing
+Arlington,Voter Registration (REG),1109336,2018,Governing
+Arlington,Voter Registration (REG),1144229,2019,Governing
+Arlington,Voter Registration (REG),1459522,2020,Governing
+Arlington,Voter Registration (REG),1402432,2021,Governing

@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" type="image/jpg" href="../static/images/heart-fill.svg"/>
+
+    <title>NCR Counties</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/dashboard/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.min.js" integrity="sha512-0XfwGD1nxplHpehcSVI7lY+m/5L37PNHDt+DOc7aLFckwPXjnjeA1oeNbru7YeI4VLs9i+ADnnHEhP69C9CqTA==" crossorigin="anonymous"></script>
+    <!-- JS  -->
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js" defer></script>
+    <!-- Defer the load of app.js so that the page can load first and then be processed by the script-->
+    <script src="{{ url_for('static', filename='js/explore_app.js') }}" defer></script>
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static',filename='css/angeladashboard.css') }}" rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="/">&nbsp;&nbsp;National Capital Region</a>
+      <nav class="nav nav-masthead justify-content-center float-md-end">
+        <a class="nav-link" aria-current="page" href="/">Home</a>
+        <a class="nav-link active" href="/explore">Explore</a>
+        <a class="nav-link" href="/linechart">Charts</a>
+        <a class="nav-link" href="/documentation">Documentation</a>
+        <a class="nav-link" href="/alldata">All Data</a>
+        <a class="nav-link" href="/County info">County Info</a>
+        <a >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+      </nav>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row bg-dark">
+        <nav class="col-md-2 d-none d-md-block sidebar">
+          <div class="sidebar-sticky">
+            <ul class="nav flex-column">
+              
+              <li class="nav-item">
+                <a class="nav-link" href="/">
+                  <span data-feather="home"></span>
+                  Home <span class="sr-only"></span>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link active" href="/explore">
+                  <span data-feather="layers"></span>
+                  Expenditure Breakdown
+                </a>
+              </li>              
+
+              <li class="nav-item">
+                <a class="nav-link" href="/linechart">
+                  <span data-feather="bar-chart-2"></span>
+                  Charts
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="/documentation">
+                  <span data-feather="file"></span>
+                  Documentation
+                </a>
+              </li>
+              
+            </ul>
+
+            <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+              <span>Explore Tables</span>
+              <a class="d-flex align-items-center text-muted" href="#">
+                <span data-feather="plus-circle"></span>
+              </a>
+            </h6>
+            <ul class="nav flex-column mb-2">
+              <li class="nav-item">
+                <a class="nav-link" href="/alldata">
+                  <span data-feather="file-text"></span>
+                  All data
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/County info">
+                  <span data-feather="file-text"></span>
+                  County info
+                </a>
+              </li>
+
+              
+            </ul>
+          </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+            <h1 class="h2">Expenditure Breakdown by Department:</h1>
+
+          </div>
+
+            
+            <div class='row'>
+              <div class='col-md responsive-div'>
+
+               
+                <!--
+                <div id="selCounty" class="checkbox">
+                  <label><input type="checkbox" value="fairfax" onclick="optionChanged()">Fairfax</input></label>
+                </div>
+                
+
+                <div class="checkbox">
+                  <label><input id='fairfax' type="checkbox" class="check" value="Fairfax" onclick="optionChanged()">Fairfax County</label>
+                </div>
+                <div class="checkbox">
+                  <label><input id='loudoun' type="checkbox" class="check" value="Loudoun" onclick="optionChanged()">Loudoun County</label>
+                </div>
+                <div class="checkbox">
+                  <label><input id='princewilliam' type="checkbox" class="check" value="Prince William" onclick="optionChanged()" >Prince William County</label>
+                </div>
+                <div class="checkbox">
+                  <label><input id='montgomery' type="checkbox" class="check" value="Montgomery" onclick="optionChanged()" >Montgomery County</label>
+                </div>
+                <div class="checkbox">
+                  <label><input id='princegeorges' type="checkbox" class="check" value="Prince George's" onclick="optionChanged()" >Prince George's County</label>
+                </div>
+                <div class="checkbox">
+                  <label><input id='arlington' type="checkbox" class="check" value="Arlington" onclick="optionChanged()" >Arlington County</label>
+                </div>
+              </div>
+            -->
+
+              <div class='col-md responsive-div'>
+                <div id='county-hover'></div>
+                <br>
+                <!-- map div -->
+                <div id="map" style='width: auto; height: 210px;'></div>
+              
+              </div>
+            </div>
+
+            <h5>Select County:</h5>
+
+            <select id="county1" onchange = "optionChanged(this.value)"></select>
+            <!--<select id='county1'>
+              determine whether you want to manually populate or dynamically -->
+              <!-- the values need to match EXACTLY is in your endpoint
+                if you want use this for filtering 
+              <option value='Fairfax'>Fairfax</option>
+              <option value="Prince George's">Prince George's</option>
+              <option value='Loudoun'>Loudoun</option>
+              <option value="Prince William">Prince William</option>
+              <option value='Arlington'>Arlington</option>
+              <option value="Montgomery">Montgomery</option>
+            </select>-->
+          
+
+            <h5>Fiscal Year:</h5>
+                          
+          <select id="selFY" onchange = "optionChanged(this.value)"></select>
+          <!--<select id="selFY">
+            <option value='2013'>2013</option>
+            <option value='2014'>2014</option>
+            <option value='2015'>2015</option>
+            <option value='2016'>2016</option>
+            <option value='2017'>2017</option>
+            <option value='2018'>2018</option>
+            <option value='2019'>2019</option>
+            <option value='2020'>2020</option>
+            <option value='2021'>2021</option>
+          -->
+            <!-- this is populated from the script -->
+          </select>
+
+         <!-- <button id = breakdown type="button">Breakdown Expenditures</button> -->
+
+          <br></br>
+          <!-- tree map div -->
+          <div id="fairfaxPlot"></div>
+
+
+        </main>
+      </div>
+    </div>
+
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace()
+    </script>
+
+    
+  </body>
+</html>

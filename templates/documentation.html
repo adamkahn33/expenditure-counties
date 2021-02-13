@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="shortcut icon" type="image/jpg" href="../static/images/heart-fill.svg"/>
+
+    <!-- Bootstrap -->
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+    <!-- D3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.min.js" integrity="sha512-0XfwGD1nxplHpehcSVI7lY+m/5L37PNHDt+DOc7aLFckwPXjnjeA1oeNbru7YeI4VLs9i+ADnnHEhP69C9CqTA==" crossorigin="anonymous"></script>
+    <!-- JS  -->
+    
+
+</head>
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js" defer></script>
+    <!-- Defer the load of app.js so that the page can load first and then be processed by the script-->
+    <script src="{{ url_for('static', filename='js/explore_app.js') }}" defer></script>
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static',filename='css/dashboard.css') }}" rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="/">&nbsp;&nbsp;National Capital Region</a>
+      <nav class="nav nav-masthead justify-content-center float-md-end">
+        <a class="nav-link" aria-current="page" href="/">Home</a>
+        <a class="nav-link" href="/explore">Explore</a>
+        <a class="nav-link" href="/linechart">Charts</a>
+        <a class="nav-link active" href="/documentation">Documentation</a>
+        <a class="nav-link" href="/alldata">All Data</a>
+        <a class="nav-link" href="/County info">County Info</a>
+        <a >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+      </nav>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row bg-dark">
+        <nav class="col-md-2 d-none d-md-block sidebar">
+          <div class="sidebar-sticky">
+            <ul class="nav flex-column">
+              
+              <li class="nav-item">
+                <a class="nav-link" href="/">
+                  <span data-feather="home"></span>
+                  Home <span class="sr-only"></span>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="/explore">
+                  <span data-feather="layers"></span>
+                  Expenditure Breakdown
+                </a>
+              </li>              
+
+              <li class="nav-item">
+                <a class="nav-link" href="/linechart">
+                  <span data-feather="bar-chart-2"></span>
+                  Charts
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link active" href="/documentation">
+                  <span data-feather="file"></span>
+                  Documentation
+                </a>
+              </li>
+              
+            </ul>
+
+            <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+              <span>Explore Tables</span>
+              <a class="d-flex align-items-center text-muted" href="#">
+                <span data-feather="plus-circle"></span>
+              </a>
+            </h6>
+            <ul class="nav flex-column mb-2">
+              <li class="nav-item">
+                <a class="nav-link" href="/alldata">
+                  <span data-feather="file-text"></span>
+                  All data
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/County info">
+                  <span data-feather="file-text"></span>
+                  County info
+                </a>
+              </li>
+
+              
+            </ul>
+          </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+            <h1 class="h2">Our Raw Data</h1>
+          </div>
+          <div class='row'>
+            <div class='col-md responsive-div'></div>
+          <h2 class= "h6">Select one of the counties to view where we stripped our raw expenditure data:</h2>
+          </div>
+            
+            <div class='row'>
+              <div class='col-md responsive-div'></div>
+                <div>
+                    <a href="https://arlingtoncountyva.opengov.com/transparency"></br>Arlington County</a>
+                </div>
+                <div>
+                    <a href="https://www.fairfaxcounty.gov/transparencyresults/"></br>Fairfax County</a>
+                </div></br>
+                <div>
+                    <a href="https://va-loudouncounty2.civicplus.com/1474/Budget-Archives"></br>Loudoun County</a>
+                </div></br>
+                <div>
+                    <a href="https://data.princegeorgescountymd.gov/browse?category=Finance+and+Budget"></br>Prince George County</a>
+                </div></br>
+                <div>
+                    <a href="https://www.pwcgov.org/government/dept/budget/Pages/Archives.aspx"></br>Prince Willaim County</a>
+                </div></br>
+                <div>
+                    <a href="https://data.montgomerycountymd.gov/Finance-Tax-Property/County-Spending/vpf9-6irq/data"></br>Montgomery County</a>
+            </div>
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+              <h1 class="h5"></br>Below is an explanation of how we cleaned our unique data so that we could universally compare each county with one another:</h1>
+            </div>
+            <div class='row'>
+              <div class='col-md responsive-div '></div>
+            <h5 style="font-size: 14px">Because we are pulling county data from multiple different websites and there is no website that contains all the counties' yearly expenditure data, we-the coders- had to universalize the dataset in order to compare county data. The reason for this is because not every county had identical department names in their expenditure summary. For example, Loudoun county expenditure summary may define library expenses simply as Library, whereas Prince William's expenditure summary may define library expenditure as Library and Staff. 
+              The way in which we were able to universalize the dataset so that we could compare similar departments was to group similar departments into 7 “bins” which we defined and created. The 7 bins are: Governing(Governance), Social Services, Education, Public Safety, Community Development, Finances, and Other. 
+              <br>
+              <br>
+              1.	Examples of departments we defined as Governing: County Council, Public Affairs, County Administrators and Board Supervisors, Commissioners, Judicial Courts and more.
+              <br>
+              <br>
+              2.	Examples of departments we defined as Social Services: Human Services, Family Services, Health, Adult Centers/Old Age Homes, Technology, General Information, Mapping and Geographic information, and more.
+              <br>
+              <br>
+              3.	Examples of departments we defined as Education: Schools (Colleges, Universities, Middle and High Schools), Libraries and more.
+              <br>
+              <br>
+              4.	Examples of departments we defined as Public Safety: Emergency Management, Sheriff, Fire and Rescue, Police, Chemical Safety Board (CSB), Fire and Rescue, and more.
+              <br>
+              <br>
+              5.	Examples of departments we defined as Community Development: Building Development, Reconstruction, Planning and Zoning, Transportation, Vehicle Services, Economic Development and more.
+              <br>
+              <br>
+              6.	Examples of departments we defined as Finances: Capital Funds, Non-Profits, Insurances, Treasurers, Finance and Procurement, Management and Budget, Employee Benefits, and more.
+              <br>
+              <br>
+              7.	Examples of departments we defined as Other: Non-Departmental, General Services, Animal Services, Cable & Consumer Services and more.  
+              </h5>
+            </div>
+            <br>
+            <div class='row'>
+              <div class='col-md responsive-div'></div>
+              <br>
+            <h2 class= "h5">County Info used to populate County Info Data Table and County Map Visualization (located on home page):</h2>
+            </div>
+              <div class='row'>
+                <div class='col-md responsive-div'></div>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Manassas,_Virginia"></br>Manassas</a>
+                  </div>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Manassas_Park,_Virginia"></br>Manassas Park</a>
+                  </div></br>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Fairfax_County,_Virginia"></br>Fairfax County</a>
+                  </div></br>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Fairfax,_Virginia"></br>City of Fairfax</a>
+                  </div></br>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Loudoun_County,_Virginia "></br>Loudoun County</a>
+                  </div></br>
+                  <div>
+                      <a href="https://en.wikipedia.org/wiki/Montgomery_County,_Maryland "></br>Montgomery County</a>
+              </div>
+              <div>
+                <a href="https://en.wikipedia.org/wiki/Prince_George's_County,_Maryland "></br>Prince George County</a>
+            </div></br>
+            <div>
+                <a href="https://en.wikipedia.org/wiki/Prince_William_County,_Virginia"></br>Prince Willaim County</a>
+            </div></br>
+            <div>
+                <a href="https://en.wikipedia.org/wiki/Arlington_County,_Virginia"></br> Arlington County</a>
+            </div></br>
+            <div>
+                <a href="https://en.wikipedia.org/wiki/Alexandria,_Virginia"></br>Alexandria County</a>
+        </div>
+        <div>
+          <a href="https://en.wikipedia.org/wiki/Washington,_D.C"></br>Washington D.C </a>
+  </div>
+        </main>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace()
+    </script>
+
+    
+  </body>
+</html>

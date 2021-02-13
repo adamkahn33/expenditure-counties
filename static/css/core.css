@@ -1,0 +1,115 @@
+/*
+ * Globals
+ */
+
+/* update leaflet css for popup */
+.custom-popup, .leaflet-popup-content-wrapper {
+    background:#343a40;
+    color:#fff;
+    font-size:16px;
+    line-height:10px;
+    border-radius: 10px;
+    text-align:center;
+    }
+
+.custom-popup, .leaflet-popup-content-wrapper a {
+    color:#343a40;
+    }
+
+.custom-popup, .leaflet-popup-tip-container {
+    width:auto;
+    height:auto;
+    }
+
+.custom-popup, .leaflet-popup-tip {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    }
+
+.leaflet-popup-close-button {
+    display: none; 
+    }
+
+/* CSS for county info table */
+table tr td, table tr th{
+    background-color: rgba(255,0,0,0.0) !important;
+    color: #ffffff;
+}
+
+/*CSS for map */
+ .responsive-div {
+     width: 100%;
+     height: auto;
+     max-width: 100%;
+ }
+
+ /* over ride leaflet css for background color */
+#map {
+    background-color:rgba(255,0,0,0.0);
+}
+#fairfaxPlot {
+    background-color:rgba(255,0,0,0.0);
+}
+
+/*CSS for county info */
+#county-info {
+    text-align: left;
+}
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+
+/*
+ * Base structure
+ */
+
+body {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+.cover-container {
+  max-width: 58em;
+}
+
+
+/*
+ * Header
+ */
+
+.nav-masthead .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+
+
+  
+
+
+
